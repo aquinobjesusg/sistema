@@ -1,0 +1,138 @@
+10-Nov-2024 09:47:55.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.85
+10-Nov-2024 09:47:55.867 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 5 2024 08:28:07 UTC
+10-Nov-2024 09:47:55.870 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.85.0
+10-Nov-2024 09:47:55.873 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+10-Nov-2024 09:47:55.875 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+10-Nov-2024 09:47:55.878 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+10-Nov-2024 09:47:55.884 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\SistemaWebPrueba\jdk-17.0.6.10-hotspot
+10-Nov-2024 09:47:55.891 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.6+10
+10-Nov-2024 09:47:55.891 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+10-Nov-2024 09:47:55.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\SistemaWebPrueba\apache-tomcat-9.0.85
+10-Nov-2024 09:47:55.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\SistemaWebPrueba\apache-tomcat-9.0.85
+10-Nov-2024 09:47:56.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+10-Nov-2024 09:47:56.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+10-Nov-2024 09:47:56.072 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+10-Nov-2024 09:47:56.079 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+10-Nov-2024 09:47:56.101 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+10-Nov-2024 09:47:56.118 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=c:\SistemaWebPrueba\apache-tomcat-9.0.85\conf\logging.properties
+10-Nov-2024 09:47:56.124 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Nov-2024 09:47:56.134 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+10-Nov-2024 09:47:56.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Nov-2024 09:47:56.140 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+10-Nov-2024 09:47:56.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=c:\SistemaWebPrueba\apache-tomcat-9.0.85
+10-Nov-2024 09:47:56.151 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=c:\SistemaWebPrueba\apache-tomcat-9.0.85
+10-Nov-2024 09:47:56.153 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=c:\SistemaWebPrueba\apache-tomcat-9.0.85\temp
+10-Nov-2024 09:47:56.180 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+10-Nov-2024 09:47:56.185 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+10-Nov-2024 09:47:56.192 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+10-Nov-2024 09:47:56.299 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+10-Nov-2024 09:47:59.403 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-1111"]
+10-Nov-2024 09:47:59.659 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [5021] milliseconds
+10-Nov-2024 09:48:00.089 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+10-Nov-2024 09:48:00.110 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.85]
+10-Nov-2024 09:48:00.353 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\oxhospedaje.war]
+10-Nov-2024 09:48:18.215 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10-Nov-2024 09:48:18.759 INFO [main] org.directwebremoting.impl.StartupUtil.info DWR Version 2.0.11-SNAPSHOT starting.
+10-Nov-2024 09:48:18.772 INFO [main] org.directwebremoting.impl.StartupUtil.info - Servlet Engine: Apache Tomcat/9.0.85
+10-Nov-2024 09:48:18.774 INFO [main] org.directwebremoting.impl.StartupUtil.info - Java Version:   17.0.6
+10-Nov-2024 09:48:18.780 INFO [main] org.directwebremoting.impl.StartupUtil.info - Java Vendor:    Eclipse Adoptium
+10-Nov-2024 09:48:19.279 INFO [main] org.directwebremoting.dwrp.DefaultConverterManager.info Probably not an issue: org.jdom.Document is not available so the jdom converter will not load. This is only a problem if you wanted to use it.
+10-Nov-2024 09:48:19.285 INFO [main] org.directwebremoting.dwrp.DefaultConverterManager.info Probably not an issue: org.jdom.Element is not available so the jdom converter will not load. This is only a problem if you wanted to use it.
+10-Nov-2024 09:48:19.352 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\oxhospedaje.war] has finished in [18,999] ms
+10-Nov-2024 09:48:19.355 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\cuadros]
+10-Nov-2024 09:48:19.630 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10-Nov-2024 09:48:19.645 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\cuadros] has finished in [290] ms
+10-Nov-2024 09:48:19.647 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\docs]
+10-Nov-2024 09:48:19.735 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\docs] has finished in [88] ms
+10-Nov-2024 09:48:19.737 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\examples]
+10-Nov-2024 09:48:20.700 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\examples] has finished in [962] ms
+10-Nov-2024 09:48:20.703 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\host-manager]
+10-Nov-2024 09:48:20.891 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\host-manager] has finished in [188] ms
+10-Nov-2024 09:48:20.901 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\manager]
+10-Nov-2024 09:48:21.014 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\manager] has finished in [112] ms
+10-Nov-2024 09:48:21.016 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\ROOT]
+10-Nov-2024 09:48:21.099 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\ROOT] has finished in [83] ms
+10-Nov-2024 09:48:21.115 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-1111"]
+10-Nov-2024 09:48:21.237 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [21566] milliseconds
+10-Nov-2024 09:51:25.721 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A01EnAlquiler
+10-Nov-2024 09:51:26.308 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Personas
+10-Nov-2024 09:51:26.479 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Nacionalidad
+10-Nov-2024 09:51:26.787 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Inmueble
+10-Nov-2024 09:51:26.846 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id TipoDeInmueble
+10-Nov-2024 09:51:26.876 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Moneda
+10-Nov-2024 09:51:26.947 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A08ReporteEstadoDeCuenta
+10-Nov-2024 09:51:26.977 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A06PagoProveedores
+10-Nov-2024 09:51:26.997 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Proveedores
+10-Nov-2024 09:51:27.026 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id ModalidadDePago
+10-Nov-2024 09:51:27.045 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id ConceptosDePagos
+10-Nov-2024 09:51:27.059 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A09ReporteIngresosEgresos
+10-Nov-2024 09:51:27.081 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A04MontoExonerado
+10-Nov-2024 09:51:27.098 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A03CobroPersonas
+10-Nov-2024 09:51:27.120 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id TasaDeCambio
+10-Nov-2024 09:51:27.152 INFO [http-nio-1111-exec-4] org.openxava.controller.ModuleManager.<clinit> OpenXava 7.2.2 (2024-1-5)
+10-Nov-2024 09:51:27.162 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id oxhospedaje
+10-Nov-2024 09:51:27.290 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A02EnAlquilerCerrado
+10-Nov-2024 09:51:27.448 FINE [http-nio-1111-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:FirstSteps
+10-Nov-2024 09:51:30.308 FINE [http-nio-1111-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=913 ms
+10-Nov-2024 09:54:58.336 FINE [http-nio-1111-exec-1] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Inmueble
+10-Nov-2024 09:55:00.288 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+10-Nov-2024 09:55:00.297 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+10-Nov-2024 09:55:01.068 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id select
+10-Nov-2024 09:55:01.081 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Cards
+10-Nov-2024 09:55:01.147 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+10-Nov-2024 09:55:01.154 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+10-Nov-2024 09:55:01.162 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id tipoDeInmueble
+10-Nov-2024 09:55:01.166 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id tipoDeInmueble
+10-Nov-2024 09:55:01.379 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from TipoDeInmueble e con argumentos
+10-Nov-2024 09:55:01.401 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=32
+10-Nov-2024 09:55:01.432 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion, e.tipoDeInmueble.id, e_tipoDeInmueble.descripcion from Inmueble e left join e.tipoDeInmueble e_tipoDeInmueble con argumentos
+10-Nov-2024 09:55:01.441 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=20
+10-Nov-2024 09:55:01.518 FINE [http-nio-1111-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=1894 ms
+10-Nov-2024 09:55:06.550 FINE [http-nio-1111-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A01EnAlquiler
+10-Nov-2024 09:55:07.698 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id personaResponsable
+10-Nov-2024 09:55:07.753 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id habitacion
+10-Nov-2024 09:55:07.894 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDeAlquiler
+10-Nov-2024 09:55:07.988 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+10-Nov-2024 09:55:08.003 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id precioAcordado
+10-Nov-2024 09:55:08.023 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id abierto
+10-Nov-2024 09:55:08.140 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Calendar
+10-Nov-2024 09:55:08.175 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDeAlquiler
+10-Nov-2024 09:55:08.187 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id personaResponsable
+10-Nov-2024 09:55:08.193 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id habitacion
+10-Nov-2024 09:55:08.207 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id habitacion
+10-Nov-2024 09:55:08.211 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id precioAcordado
+10-Nov-2024 09:55:08.223 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id tipoDeMoneda
+10-Nov-2024 09:55:08.227 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id abierto
+10-Nov-2024 09:55:08.329 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+10-Nov-2024 09:55:08.336 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=9
+10-Nov-2024 09:55:08.376 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeAlquiler, e_personaResponsable.descripcion, e.habitacion.id, e_habitacion.descripcion, e.precioAcordado, e_tipoDeMoneda.descripcion, e.abierto, e.observaciones from A01EnAlquiler e left join e.personaResponsable e_personaResponsable left join e.habitacion e_habitacion left join e.tipoDeMoneda e_tipoDeMoneda where e.abierto = true con argumentos
+10-Nov-2024 09:55:08.400 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=34
+10-Nov-2024 09:55:08.621 FINE [http-nio-1111-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=931 ms
+10-Nov-2024 09:55:11.520 FINE [http-nio-1111-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 admin List.viewDetail 477ms
+10-Nov-2024 09:55:11.638 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDeAlquiler
+10-Nov-2024 09:55:11.775 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+10-Nov-2024 09:55:11.830 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id nacionalidad
+10-Nov-2024 09:55:11.873 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+10-Nov-2024 09:55:11.894 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+10-Nov-2024 09:55:11.905 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=16
+10-Nov-2024 09:55:11.926 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id cedula
+10-Nov-2024 09:55:11.980 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+10-Nov-2024 09:55:12.044 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+10-Nov-2024 09:55:12.052 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from TipoDeInmueble e con argumentos
+10-Nov-2024 09:55:12.055 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=7
+10-Nov-2024 09:55:12.061 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id precioAcordado
+10-Nov-2024 09:55:12.071 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id tipoDeMoneda
+10-Nov-2024 09:55:12.162 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+10-Nov-2024 09:55:12.170 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Moneda e con argumentos
+10-Nov-2024 09:55:12.175 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=10
+10-Nov-2024 09:55:12.187 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id abierto
+10-Nov-2024 09:55:12.299 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id descripcionDeLaImagen
+10-Nov-2024 09:55:12.396 FINE [http-nio-1111-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=1368 ms
+10-Nov-2024 09:55:18.191 FINE [http-nio-1111-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.save 461ms
+10-Nov-2024 09:55:18.496 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+10-Nov-2024 09:55:18.511 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=17
+10-Nov-2024 09:55:18.549 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from TipoDeInmueble e con argumentos
+10-Nov-2024 09:55:18.561 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=12
+10-Nov-2024 09:55:18.661 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Moneda e con argumentos
+10-Nov-2024 09:55:18.676 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=14
+10-Nov-2024 09:55:18.770 FINE [http-nio-1111-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=1095 ms

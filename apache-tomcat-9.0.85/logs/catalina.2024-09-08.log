@@ -1,0 +1,273 @@
+08-Sep-2024 05:50:50.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.85
+08-Sep-2024 05:50:50.901 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 5 2024 08:28:07 UTC
+08-Sep-2024 05:50:50.904 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.85.0
+08-Sep-2024 05:50:50.906 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+08-Sep-2024 05:50:50.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+08-Sep-2024 05:50:50.908 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Sep-2024 05:50:50.911 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             c:\SistemaWebPrueba\jdk-17.0.6.10-hotspot
+08-Sep-2024 05:50:50.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.6+10
+08-Sep-2024 05:50:50.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+08-Sep-2024 05:50:50.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\SistemaWebPrueba\apache-tomcat-9.0.85
+08-Sep-2024 05:50:50.922 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\SistemaWebPrueba\apache-tomcat-9.0.85
+08-Sep-2024 05:50:50.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Sep-2024 05:50:50.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Sep-2024 05:50:50.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+08-Sep-2024 05:50:50.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+08-Sep-2024 05:50:50.986 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Sep-2024 05:50:50.989 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=c:\SistemaWebPrueba\apache-tomcat-9.0.85\conf\logging.properties
+08-Sep-2024 05:50:50.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Sep-2024 05:50:50.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Sep-2024 05:50:50.998 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Sep-2024 05:50:50.999 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Sep-2024 05:50:51.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=c:\SistemaWebPrueba\apache-tomcat-9.0.85
+08-Sep-2024 05:50:51.003 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=c:\SistemaWebPrueba\apache-tomcat-9.0.85
+08-Sep-2024 05:50:51.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=c:\SistemaWebPrueba\apache-tomcat-9.0.85\temp
+08-Sep-2024 05:50:51.016 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+08-Sep-2024 05:50:51.016 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+08-Sep-2024 05:50:51.017 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+08-Sep-2024 05:50:51.071 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+08-Sep-2024 05:50:52.614 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-1111"]
+08-Sep-2024 05:50:52.842 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [3081] milliseconds
+08-Sep-2024 05:50:53.163 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Sep-2024 05:50:53.163 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.85]
+08-Sep-2024 05:50:53.207 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\aulascursosya.war]
+08-Sep-2024 05:51:09.691 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Sep-2024 05:51:09.976 INFO [main] org.directwebremoting.impl.StartupUtil.info DWR Version 2.0.11-SNAPSHOT starting.
+08-Sep-2024 05:51:09.976 INFO [main] org.directwebremoting.impl.StartupUtil.info - Servlet Engine: Apache Tomcat/9.0.85
+08-Sep-2024 05:51:09.978 INFO [main] org.directwebremoting.impl.StartupUtil.info - Java Version:   17.0.6
+08-Sep-2024 05:51:09.979 INFO [main] org.directwebremoting.impl.StartupUtil.info - Java Vendor:    Eclipse Adoptium
+08-Sep-2024 05:51:10.711 INFO [main] org.directwebremoting.dwrp.DefaultConverterManager.info Probably not an issue: org.jdom.Document is not available so the jdom converter will not load. This is only a problem if you wanted to use it.
+08-Sep-2024 05:51:10.712 INFO [main] org.directwebremoting.dwrp.DefaultConverterManager.info Probably not an issue: org.jdom.Element is not available so the jdom converter will not load. This is only a problem if you wanted to use it.
+08-Sep-2024 05:51:10.752 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\aulascursosya.war] has finished in [17,539] ms
+08-Sep-2024 05:51:10.757 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\cuadros.war]
+08-Sep-2024 05:51:10.914 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Sep-2024 05:51:10.924 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\cuadros.war] has finished in [167] ms
+08-Sep-2024 05:51:10.930 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\invoicedemo.war]
+08-Sep-2024 05:51:20.873 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Sep-2024 05:51:21.362 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\invoicedemo.war] has finished in [10,431] ms
+08-Sep-2024 05:51:21.400 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\oxcondominio.war]
+08-Sep-2024 05:51:29.291 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Sep-2024 05:51:29.638 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\oxcondominio.war] has finished in [8,239] ms
+08-Sep-2024 05:51:29.827 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\oxhospedaje.war]
+08-Sep-2024 05:51:35.685 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Sep-2024 05:51:35.832 INFO [main] org.directwebremoting.impl.StartupUtil.info DWR Version 2.0.11-SNAPSHOT starting.
+08-Sep-2024 05:51:35.834 INFO [main] org.directwebremoting.impl.StartupUtil.info - Servlet Engine: Apache Tomcat/9.0.85
+08-Sep-2024 05:51:35.836 INFO [main] org.directwebremoting.impl.StartupUtil.info - Java Version:   17.0.6
+08-Sep-2024 05:51:35.837 INFO [main] org.directwebremoting.impl.StartupUtil.info - Java Vendor:    Eclipse Adoptium
+08-Sep-2024 05:51:36.001 INFO [main] org.directwebremoting.dwrp.DefaultConverterManager.info Probably not an issue: org.jdom.Document is not available so the jdom converter will not load. This is only a problem if you wanted to use it.
+08-Sep-2024 05:51:36.002 INFO [main] org.directwebremoting.dwrp.DefaultConverterManager.info Probably not an issue: org.jdom.Element is not available so the jdom converter will not load. This is only a problem if you wanted to use it.
+08-Sep-2024 05:51:36.026 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\oxhospedaje.war] has finished in [6,198] ms
+08-Sep-2024 05:51:36.027 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\docs]
+08-Sep-2024 05:51:36.256 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\docs] has finished in [229] ms
+08-Sep-2024 05:51:36.256 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\examples]
+08-Sep-2024 05:51:36.923 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\examples] has finished in [666] ms
+08-Sep-2024 05:51:36.925 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\host-manager]
+08-Sep-2024 05:51:36.984 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\host-manager] has finished in [58] ms
+08-Sep-2024 05:51:36.985 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\manager]
+08-Sep-2024 05:51:37.032 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\manager] has finished in [48] ms
+08-Sep-2024 05:51:37.033 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\ROOT]
+08-Sep-2024 05:51:37.065 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\ROOT] has finished in [32] ms
+08-Sep-2024 05:51:37.070 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-1111"]
+08-Sep-2024 05:51:37.142 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [44300] milliseconds
+08-Sep-2024 05:54:34.021 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Formatos
+08-Sep-2024 05:54:34.046 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Pruebas
+08-Sep-2024 05:54:34.056 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Usuarios
+08-Sep-2024 05:54:34.064 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Titulos
+08-Sep-2024 05:54:34.071 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Sexos
+08-Sep-2024 05:54:34.329 INFO [http-nio-1111-exec-9] org.openxava.controller.ModuleManager.<clinit> OpenXava 7.2.3 (2024-1-26)
+08-Sep-2024 05:54:34.336 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id aulascursosya
+08-Sep-2024 05:54:34.750 WARNING [Thread-2] org.openxava.controller.ModuleManager.getLastVersion Unable to determine the latest version of OpenXava due to: api.github.com
+08-Sep-2024 05:54:35.301 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Areas
+08-Sep-2024 05:54:35.311 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Cargos
+08-Sep-2024 05:54:35.322 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Categorias
+08-Sep-2024 05:54:35.332 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Cursos
+08-Sep-2024 05:54:35.340 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id TipoDeCursos
+08-Sep-2024 05:54:35.349 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id SubAreas
+08-Sep-2024 05:54:35.359 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id SubCategorias
+08-Sep-2024 05:54:35.370 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Estructuras
+08-Sep-2024 05:54:35.379 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id SubEstructuras
+08-Sep-2024 05:54:35.388 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Niveles
+08-Sep-2024 05:54:35.396 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id SubNiveles
+08-Sep-2024 05:54:35.405 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id TipoDeEvaluaciones
+08-Sep-2024 05:54:35.413 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id EstadosDeLosCursos
+08-Sep-2024 05:54:35.425 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id CursosActividades
+08-Sep-2024 05:54:35.449 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Preguntas
+08-Sep-2024 05:54:35.471 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id RolesDeUsuarios
+08-Sep-2024 05:54:35.919 FINE [http-nio-1111-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Actividades
+08-Sep-2024 05:54:37.266 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id destinoDelFormato
+08-Sep-2024 05:54:39.597 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id formato
+08-Sep-2024 05:54:40.122 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:54:40.156 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id destinoDelFormato
+08-Sep-2024 05:54:40.165 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id pruebaAsociada
+08-Sep-2024 05:54:40.179 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:54:40.196 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id usario
+08-Sep-2024 05:54:40.209 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:54:40.464 FINE [http-nio-1111-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=3469 ms
+08-Sep-2024 05:54:45.235 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Areas
+08-Sep-2024 05:54:45.755 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id select
+08-Sep-2024 05:54:45.761 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Cards
+08-Sep-2024 05:54:45.776 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Calendar
+08-Sep-2024 05:54:47.104 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion from Areas e con argumentos
+08-Sep-2024 05:54:47.115 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=18
+08-Sep-2024 05:54:47.174 FINE [http-nio-1111-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=1483 ms
+08-Sep-2024 05:54:47.938 FINE [http-nio-1111-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Cargos
+08-Sep-2024 05:54:48.362 FINE [http-nio-1111-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=40 ms
+08-Sep-2024 05:54:49.617 FINE [http-nio-1111-exec-7] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Categorias
+08-Sep-2024 05:54:50.041 FINE [http-nio-1111-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=70 ms
+08-Sep-2024 05:54:50.689 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Cursos
+08-Sep-2024 05:54:51.126 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id codigoCurso
+08-Sep-2024 05:54:51.144 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id emisionDeCertificado
+08-Sep-2024 05:54:51.147 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id objetivo
+08-Sep-2024 05:54:51.151 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id requisitos
+08-Sep-2024 05:54:51.154 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id costoDelCurso
+08-Sep-2024 05:54:51.155 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id logoDelCurso
+08-Sep-2024 05:54:51.157 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDeCreacion
+08-Sep-2024 05:54:51.161 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id disponible
+08-Sep-2024 05:54:51.290 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id codigoCurso
+08-Sep-2024 05:54:51.299 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id tipoDeCurso
+08-Sep-2024 05:54:51.307 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:54:51.313 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id areas
+08-Sep-2024 05:54:51.323 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:54:51.327 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Areas e con argumentos
+08-Sep-2024 05:54:51.329 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+08-Sep-2024 05:54:51.336 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id subAreas
+08-Sep-2024 05:54:51.344 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:54:51.356 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id categorias
+08-Sep-2024 05:54:51.364 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:54:51.372 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id subCategorias
+08-Sep-2024 05:54:51.378 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:54:51.387 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id estructura
+08-Sep-2024 05:54:51.395 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:54:51.407 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id subEstructura
+08-Sep-2024 05:54:51.412 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:54:51.425 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:54:51.434 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id subNivel
+08-Sep-2024 05:54:51.441 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:54:51.447 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id tipoDeEvaluacion
+08-Sep-2024 05:54:51.456 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:54:51.462 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id usario
+08-Sep-2024 05:54:51.476 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id emisionDeCertificado
+08-Sep-2024 05:54:51.635 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:CursosActividades
+08-Sep-2024 05:54:51.672 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id objetivo
+08-Sep-2024 05:54:52.071 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id activadesQuePrelan
+08-Sep-2024 05:54:52.110 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id codigoActividad
+08-Sep-2024 05:54:52.113 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id nombreDeLaCategoria
+08-Sep-2024 05:54:52.125 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id numeroDeLaCategoria
+08-Sep-2024 05:54:52.127 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id nombreDeLaSubCategoria
+08-Sep-2024 05:54:52.128 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id numeroDeLaSubCategoria
+08-Sep-2024 05:54:52.130 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id ordenDeLaActividad
+08-Sep-2024 05:54:52.133 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDeCreacion
+08-Sep-2024 05:54:52.137 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id disponible
+08-Sep-2024 05:54:52.204 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id codigoActividad
+08-Sep-2024 05:54:52.214 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id categorias
+08-Sep-2024 05:54:52.242 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id nombreDeLaCategoria
+08-Sep-2024 05:54:52.256 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id numeroDeLaCategoria
+08-Sep-2024 05:54:52.264 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id subCategorias
+08-Sep-2024 05:54:52.288 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id nombreDeLaSubCategoria
+08-Sep-2024 05:54:52.296 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id numeroDeLaSubCategoria
+08-Sep-2024 05:54:52.303 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id requisitos
+08-Sep-2024 05:54:52.309 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id cursoRelacionado
+08-Sep-2024 05:54:52.320 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id costoDelCurso
+08-Sep-2024 05:54:52.323 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:54:52.333 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id logoDelCurso
+08-Sep-2024 05:54:52.334 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id activadesRelacionadas
+08-Sep-2024 05:54:52.341 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:54:52.341 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDeCreacion
+08-Sep-2024 05:54:52.356 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id ordenDeLaActividad
+08-Sep-2024 05:54:52.368 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDeCreacion
+08-Sep-2024 05:54:52.495 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id estadoDeLaActividad
+08-Sep-2024 05:54:52.495 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id estadoDelCurso
+08-Sep-2024 05:54:52.504 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:54:52.505 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:54:52.512 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id disponible
+08-Sep-2024 05:54:52.519 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id disponible
+08-Sep-2024 05:54:52.537 FINE [http-nio-1111-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=1468 ms
+08-Sep-2024 05:54:52.711 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:EstadosDeLosCursos
+08-Sep-2024 05:54:53.346 FINE [http-nio-1111-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=49 ms
+08-Sep-2024 05:54:53.717 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id codigoActividad
+08-Sep-2024 05:54:53.728 FINE [http-nio-1111-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=1661 ms
+08-Sep-2024 05:54:54.156 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Estructuras
+08-Sep-2024 05:54:54.470 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id nombreDelResponsable
+08-Sep-2024 05:54:54.473 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id telefonoDelResponsable
+08-Sep-2024 05:54:54.476 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id direcionDeLaEstructura
+08-Sep-2024 05:54:54.477 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id correoElectronico
+08-Sep-2024 05:54:54.523 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id nombreDelResponsable
+08-Sep-2024 05:54:54.527 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id telefonoDelResponsable
+08-Sep-2024 05:54:54.537 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id cargoDelResponsable
+08-Sep-2024 05:54:54.546 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:54:54.556 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id direcionDeLaEstructura
+08-Sep-2024 05:54:54.560 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id correoElectronico
+08-Sep-2024 05:54:54.568 FINE [http-nio-1111-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=119 ms
+08-Sep-2024 05:54:55.206 FINE [http-nio-1111-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Formatos
+08-Sep-2024 05:54:55.501 FINE [http-nio-1111-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=28 ms
+08-Sep-2024 05:54:56.442 FINE [http-nio-1111-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Niveles
+08-Sep-2024 05:54:56.799 FINE [http-nio-1111-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=33 ms
+08-Sep-2024 05:54:57.226 FINE [http-nio-1111-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Paises
+08-Sep-2024 05:54:57.554 FINE [http-nio-1111-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=46 ms
+08-Sep-2024 05:54:58.020 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Preguntas
+08-Sep-2024 05:54:58.305 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id ordenDeLaPregunta
+08-Sep-2024 05:54:58.307 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id pregunta
+08-Sep-2024 05:54:58.379 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id prueba
+08-Sep-2024 05:54:58.393 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id ordenDeLaPregunta
+08-Sep-2024 05:54:58.401 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id pregunta
+08-Sep-2024 05:54:58.406 FINE [http-nio-1111-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=111 ms
+08-Sep-2024 05:54:58.925 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Pruebas
+08-Sep-2024 05:54:59.262 WARNING [http-nio-1111-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id usario
+08-Sep-2024 05:54:59.274 FINE [http-nio-1111-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=63 ms
+08-Sep-2024 05:55:00.937 FINE [http-nio-1111-exec-7] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Roles
+08-Sep-2024 05:55:01.279 FINE [http-nio-1111-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=36 ms
+08-Sep-2024 05:55:02.974 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:RolesDeUsuarios
+08-Sep-2024 05:55:03.343 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id roleDeUsuario
+08-Sep-2024 05:55:03.354 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:55:03.360 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id usuario
+08-Sep-2024 05:55:03.371 FINE [http-nio-1111-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=113 ms
+08-Sep-2024 05:55:04.999 FINE [http-nio-1111-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Sexos
+08-Sep-2024 05:55:05.309 FINE [http-nio-1111-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=42 ms
+08-Sep-2024 05:55:21.312 FINE [http-nio-1111-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Sexos
+08-Sep-2024 05:55:21.798 FINE [http-nio-1111-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=74 ms
+08-Sep-2024 05:55:30.919 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A01EnAlquiler
+08-Sep-2024 05:55:31.000 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Personas
+08-Sep-2024 05:55:31.015 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Nacionalidad
+08-Sep-2024 05:55:31.054 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Inmueble
+08-Sep-2024 05:55:31.065 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id TipoDeInmueble
+08-Sep-2024 05:55:31.090 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Proveedores
+08-Sep-2024 05:55:31.101 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id ModalidadDePago
+08-Sep-2024 05:55:31.109 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id ConceptosDePagos
+08-Sep-2024 05:55:31.116 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A09ReporteIngresosEgresos
+08-Sep-2024 05:55:31.127 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A08ReporteEstadoDeCuenta
+08-Sep-2024 05:55:31.137 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A06PagoProveedores
+08-Sep-2024 05:55:31.147 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A04MontoExonerado
+08-Sep-2024 05:55:31.157 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A03CobroPersonas
+08-Sep-2024 05:55:31.169 INFO [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.<clinit> OpenXava 7.2.2 (2024-1-5)
+08-Sep-2024 05:55:31.172 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id oxhospedaje
+08-Sep-2024 05:55:31.794 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A02EnAlquilerCerrado
+08-Sep-2024 05:55:32.269 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:FirstSteps
+08-Sep-2024 05:55:34.565 FINE [http-nio-1111-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=1380 ms
+08-Sep-2024 05:55:37.339 FINE [http-nio-1111-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A01EnAlquiler
+08-Sep-2024 05:55:37.716 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id personaResponsable
+08-Sep-2024 05:55:37.718 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id habitacion
+08-Sep-2024 05:55:37.833 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDeAlquiler
+08-Sep-2024 05:55:37.839 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:55:37.854 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id precioAcordado
+08-Sep-2024 05:55:37.855 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id abierto
+08-Sep-2024 05:55:39.018 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDeAlquiler
+08-Sep-2024 05:55:39.939 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:55:40.094 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id nacionalidad
+08-Sep-2024 05:55:40.304 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:55:40.317 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id cedula
+08-Sep-2024 05:55:40.341 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:55:40.360 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id tipoDeInmueble
+08-Sep-2024 05:55:40.367 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+08-Sep-2024 05:55:40.377 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id precioAcordado
+08-Sep-2024 05:55:40.393 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id abierto
+08-Sep-2024 05:55:41.084 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id descripcionDeLaImagen
+08-Sep-2024 05:55:41.766 FINE [http-nio-1111-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=4096 ms
+08-Sep-2024 05:56:25.747 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A01EnAlquiler
+08-Sep-2024 05:56:26.290 FINE [http-nio-1111-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=199 ms
+08-Sep-2024 05:56:30.630 FINE [http-nio-1111-exec-7] org.openxava.controller.ModuleManager.log 127.0.0.1 admin Reference.createNew 45ms
+08-Sep-2024 05:56:30.647 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id nacionalidad
+08-Sep-2024 05:56:30.665 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id cedula
+08-Sep-2024 05:56:30.711 FINE [http-nio-1111-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=130 ms
+08-Sep-2024 05:56:38.284 WARNING [http-nio-1111-exec-4] org.openxava.actions.BaseAction.setControllers class org.openxava.actions.CancelAction implementa IChangeControllersAction, por tanto las llamadas a setControllers(), returnToPreviousControllers() y setDefaultControllers() se ignoran: IChangeControllersAction tiene preferencia
+08-Sep-2024 05:56:38.285 FINE [http-nio-1111-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 admin NewCreation.cancel 3ms
+08-Sep-2024 05:56:38.430 FINE [http-nio-1111-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=151 ms

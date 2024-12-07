@@ -1,0 +1,76 @@
+04-Nov-2024 18:41:08.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.85
+04-Nov-2024 18:41:08.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 5 2024 08:28:07 UTC
+04-Nov-2024 18:41:08.382 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.85.0
+04-Nov-2024 18:41:08.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+04-Nov-2024 18:41:08.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Nov-2024 18:41:08.393 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Nov-2024 18:41:08.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\SistemaWebPrueba\jdk-17.0.6.10-hotspot
+04-Nov-2024 18:41:08.398 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.6+10
+04-Nov-2024 18:41:08.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+04-Nov-2024 18:41:08.406 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\SistemaWebPrueba\apache-tomcat-9.0.85
+04-Nov-2024 18:41:08.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\SistemaWebPrueba\apache-tomcat-9.0.85
+04-Nov-2024 18:41:08.480 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Nov-2024 18:41:08.481 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Nov-2024 18:41:08.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Nov-2024 18:41:08.485 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Nov-2024 18:41:08.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Nov-2024 18:41:08.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=c:\SistemaWebPrueba\apache-tomcat-9.0.85\conf\logging.properties
+04-Nov-2024 18:41:08.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Nov-2024 18:41:08.503 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Nov-2024 18:41:08.512 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Nov-2024 18:41:08.513 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Nov-2024 18:41:08.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=c:\SistemaWebPrueba\apache-tomcat-9.0.85
+04-Nov-2024 18:41:08.519 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=c:\SistemaWebPrueba\apache-tomcat-9.0.85
+04-Nov-2024 18:41:08.523 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=c:\SistemaWebPrueba\apache-tomcat-9.0.85\temp
+04-Nov-2024 18:41:08.566 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+04-Nov-2024 18:41:08.569 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+04-Nov-2024 18:41:08.575 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+04-Nov-2024 18:41:08.686 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+04-Nov-2024 18:41:10.492 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-1111"]
+04-Nov-2024 18:41:10.820 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [12133] milliseconds
+04-Nov-2024 18:41:11.359 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Nov-2024 18:41:11.360 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.85]
+04-Nov-2024 18:41:11.441 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\oxhospedaje.war]
+04-Nov-2024 18:41:35.838 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Nov-2024 18:41:36.636 INFO [main] org.directwebremoting.impl.StartupUtil.info DWR Version 2.0.11-SNAPSHOT starting.
+04-Nov-2024 18:41:36.640 INFO [main] org.directwebremoting.impl.StartupUtil.info - Servlet Engine: Apache Tomcat/9.0.85
+04-Nov-2024 18:41:36.641 INFO [main] org.directwebremoting.impl.StartupUtil.info - Java Version:   17.0.6
+04-Nov-2024 18:41:36.645 INFO [main] org.directwebremoting.impl.StartupUtil.info - Java Vendor:    Eclipse Adoptium
+04-Nov-2024 18:41:37.379 INFO [main] org.directwebremoting.dwrp.DefaultConverterManager.info Probably not an issue: org.jdom.Document is not available so the jdom converter will not load. This is only a problem if you wanted to use it.
+04-Nov-2024 18:41:37.381 INFO [main] org.directwebremoting.dwrp.DefaultConverterManager.info Probably not an issue: org.jdom.Element is not available so the jdom converter will not load. This is only a problem if you wanted to use it.
+04-Nov-2024 18:41:37.507 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\oxhospedaje.war] has finished in [26,058] ms
+04-Nov-2024 18:41:37.512 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\cuadros]
+04-Nov-2024 18:41:37.927 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Nov-2024 18:41:37.976 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\cuadros] has finished in [463] ms
+04-Nov-2024 18:41:37.978 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\docs]
+04-Nov-2024 18:41:38.095 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\docs] has finished in [116] ms
+04-Nov-2024 18:41:38.096 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\examples]
+04-Nov-2024 18:41:39.738 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\examples] has finished in [1,641] ms
+04-Nov-2024 18:41:39.743 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\host-manager]
+04-Nov-2024 18:41:40.036 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\host-manager] has finished in [292] ms
+04-Nov-2024 18:41:40.041 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\manager]
+04-Nov-2024 18:41:40.233 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\manager] has finished in [192] ms
+04-Nov-2024 18:41:40.235 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\ROOT]
+04-Nov-2024 18:41:40.336 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\SistemaWebPrueba\apache-tomcat-9.0.85\webapps\ROOT] has finished in [102] ms
+04-Nov-2024 18:41:40.351 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-1111"]
+04-Nov-2024 18:41:40.550 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [29518] milliseconds
+04-Nov-2024 18:42:19.365 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id A08ReporteEstadoDeCuenta
+04-Nov-2024 18:42:20.122 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id Personas
+04-Nov-2024 18:42:20.178 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id Nacionalidad
+04-Nov-2024 18:42:20.316 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id A06PagoProveedores
+04-Nov-2024 18:42:20.377 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id Proveedores
+04-Nov-2024 18:42:20.413 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id Moneda
+04-Nov-2024 18:42:20.448 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id ModalidadDePago
+04-Nov-2024 18:42:20.479 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id ConceptosDePagos
+04-Nov-2024 18:42:20.517 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id A01EnAlquiler
+04-Nov-2024 18:42:20.550 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id Inmueble
+04-Nov-2024 18:42:20.579 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id TipoDeInmueble
+04-Nov-2024 18:42:20.659 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id A09ReporteIngresosEgresos
+04-Nov-2024 18:42:20.692 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id A04MontoExonerado
+04-Nov-2024 18:42:20.725 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id A03CobroPersonas
+04-Nov-2024 18:42:20.761 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id TasaDeCambio
+04-Nov-2024 18:42:20.833 INFO [http-nio-1111-exec-4] org.openxava.controller.ModuleManager.<clinit> OpenXava 7.2.2 (2024-1-5)
+04-Nov-2024 18:42:20.850 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id oxhospedaje
+04-Nov-2024 18:42:21.126 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Impossible to translate element with id A02EnAlquilerCerrado
+04-Nov-2024 18:42:21.500 FINE [http-nio-1111-exec-4] org.openxava.controller.ModuleManager.log 0:0:0:0:0:0:0:1 admin MODULE:FirstSteps
+04-Nov-2024 18:42:29.187 FINE [http-nio-1111-exec-5] org.openxava.web.dwr.DWRBase.request Request time=781 ms

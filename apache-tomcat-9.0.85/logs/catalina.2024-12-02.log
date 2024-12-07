@@ -1,0 +1,1134 @@
+02-Dec-2024 23:03:31.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.85
+02-Dec-2024 23:03:31.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 5 2024 08:28:07 UTC
+02-Dec-2024 23:03:31.396 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.85.0
+02-Dec-2024 23:03:31.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+02-Dec-2024 23:03:31.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+02-Dec-2024 23:03:31.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+02-Dec-2024 23:03:31.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\sistema\jdk-17.0.6.10-hotspot
+02-Dec-2024 23:03:31.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.6+10
+02-Dec-2024 23:03:31.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+02-Dec-2024 23:03:31.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:03:31.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:03:31.444 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+02-Dec-2024 23:03:31.447 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+02-Dec-2024 23:03:31.450 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+02-Dec-2024 23:03:31.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+02-Dec-2024 23:03:31.452 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+02-Dec-2024 23:03:31.456 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=c:\sistema\apache-tomcat-9.0.85\conf\logging.properties
+02-Dec-2024 23:03:31.458 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+02-Dec-2024 23:03:31.464 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+02-Dec-2024 23:03:31.468 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+02-Dec-2024 23:03:31.469 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+02-Dec-2024 23:03:31.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=c:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:03:31.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=c:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:03:31.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=c:\sistema\apache-tomcat-9.0.85\temp
+02-Dec-2024 23:03:31.487 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+02-Dec-2024 23:03:31.490 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+02-Dec-2024 23:03:31.493 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+02-Dec-2024 23:03:31.574 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+02-Dec-2024 23:03:32.788 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-1111"]
+02-Dec-2024 23:03:32.898 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2561] milliseconds
+02-Dec-2024 23:03:33.181 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+02-Dec-2024 23:03:33.255 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.85]
+02-Dec-2024 23:03:33.316 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\docs]
+02-Dec-2024 23:03:35.009 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [137] milliseconds.
+02-Dec-2024 23:03:35.114 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\docs] has finished in [1,797] ms
+02-Dec-2024 23:03:35.119 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\examples]
+02-Dec-2024 23:03:37.896 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\examples] has finished in [2,777] ms
+02-Dec-2024 23:03:37.927 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\host-manager]
+02-Dec-2024 23:03:38.180 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\host-manager] has finished in [253] ms
+02-Dec-2024 23:03:38.195 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\manager]
+02-Dec-2024 23:03:38.340 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\manager] has finished in [144] ms
+02-Dec-2024 23:03:38.360 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\ROOT]
+02-Dec-2024 23:03:38.586 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\ROOT] has finished in [223] ms
+02-Dec-2024 23:03:38.742 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-1111"]
+02-Dec-2024 23:03:41.310 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [8404] milliseconds
+02-Dec-2024 23:10:35.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.85
+02-Dec-2024 23:10:35.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 5 2024 08:28:07 UTC
+02-Dec-2024 23:10:35.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.85.0
+02-Dec-2024 23:10:35.797 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+02-Dec-2024 23:10:35.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+02-Dec-2024 23:10:35.807 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+02-Dec-2024 23:10:35.818 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\sistema\jdk-17.0.6.10-hotspot
+02-Dec-2024 23:10:35.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.6+10
+02-Dec-2024 23:10:35.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+02-Dec-2024 23:10:35.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:10:35.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:10:35.853 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+02-Dec-2024 23:10:35.855 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+02-Dec-2024 23:10:35.856 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+02-Dec-2024 23:10:35.857 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+02-Dec-2024 23:10:35.858 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+02-Dec-2024 23:10:35.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=c:\sistema\apache-tomcat-9.0.85\conf\logging.properties
+02-Dec-2024 23:10:35.863 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+02-Dec-2024 23:10:35.864 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+02-Dec-2024 23:10:35.866 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+02-Dec-2024 23:10:35.868 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+02-Dec-2024 23:10:35.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=c:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:10:35.878 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=c:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:10:35.880 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=c:\sistema\apache-tomcat-9.0.85\temp
+02-Dec-2024 23:10:35.894 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+02-Dec-2024 23:10:35.896 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+02-Dec-2024 23:10:35.898 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+02-Dec-2024 23:10:35.916 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+02-Dec-2024 23:10:37.770 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-1111"]
+02-Dec-2024 23:10:37.989 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [3039] milliseconds
+02-Dec-2024 23:10:38.256 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+02-Dec-2024 23:10:38.268 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.85]
+02-Dec-2024 23:10:38.311 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\docs]
+02-Dec-2024 23:10:40.289 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [188] milliseconds.
+02-Dec-2024 23:10:40.449 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\docs] has finished in [2,136] ms
+02-Dec-2024 23:10:40.458 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\examples]
+02-Dec-2024 23:10:43.090 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\examples] has finished in [2,633] ms
+02-Dec-2024 23:10:43.098 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\host-manager]
+02-Dec-2024 23:10:43.220 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\host-manager] has finished in [121] ms
+02-Dec-2024 23:10:43.222 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\manager]
+02-Dec-2024 23:10:43.371 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\manager] has finished in [149] ms
+02-Dec-2024 23:10:43.381 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\ROOT]
+02-Dec-2024 23:10:43.490 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\ROOT] has finished in [107] ms
+02-Dec-2024 23:10:43.529 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-1111"]
+02-Dec-2024 23:10:43.790 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [5796] milliseconds
+02-Dec-2024 23:12:07.848 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.85
+02-Dec-2024 23:12:07.863 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 5 2024 08:28:07 UTC
+02-Dec-2024 23:12:07.866 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.85.0
+02-Dec-2024 23:12:07.871 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+02-Dec-2024 23:12:07.873 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+02-Dec-2024 23:12:07.874 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+02-Dec-2024 23:12:07.874 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\sistema\jdk-17.0.6.10-hotspot
+02-Dec-2024 23:12:07.875 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.6+10
+02-Dec-2024 23:12:07.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+02-Dec-2024 23:12:07.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:12:07.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:12:07.906 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+02-Dec-2024 23:12:07.906 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+02-Dec-2024 23:12:07.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+02-Dec-2024 23:12:07.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+02-Dec-2024 23:12:07.909 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+02-Dec-2024 23:12:07.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=c:\sistema\apache-tomcat-9.0.85\conf\logging.properties
+02-Dec-2024 23:12:07.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+02-Dec-2024 23:12:07.918 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+02-Dec-2024 23:12:07.918 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+02-Dec-2024 23:12:07.920 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+02-Dec-2024 23:12:07.921 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=c:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:12:07.922 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=c:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:12:07.922 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=c:\sistema\apache-tomcat-9.0.85\temp
+02-Dec-2024 23:12:07.930 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+02-Dec-2024 23:12:07.931 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+02-Dec-2024 23:12:07.933 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+02-Dec-2024 23:12:07.948 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+02-Dec-2024 23:12:09.231 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-1111"]
+02-Dec-2024 23:12:09.399 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2201] milliseconds
+02-Dec-2024 23:12:09.711 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+02-Dec-2024 23:12:09.718 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.85]
+02-Dec-2024 23:12:09.764 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\docs]
+02-Dec-2024 23:12:12.215 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [198] milliseconds.
+02-Dec-2024 23:12:12.324 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\docs] has finished in [2,560] ms
+02-Dec-2024 23:12:12.337 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\examples]
+02-Dec-2024 23:12:16.717 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\examples] has finished in [4,379] ms
+02-Dec-2024 23:12:16.718 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\host-manager]
+02-Dec-2024 23:12:16.853 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\host-manager] has finished in [135] ms
+02-Dec-2024 23:12:16.856 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\manager]
+02-Dec-2024 23:12:17.006 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\manager] has finished in [149] ms
+02-Dec-2024 23:12:17.008 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\ROOT]
+02-Dec-2024 23:12:17.096 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\ROOT] has finished in [87] ms
+02-Dec-2024 23:12:17.113 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-1111"]
+02-Dec-2024 23:12:17.252 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [7838] milliseconds
+02-Dec-2024 23:15:55.470 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.85
+02-Dec-2024 23:15:55.480 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 5 2024 08:28:07 UTC
+02-Dec-2024 23:15:55.482 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.85.0
+02-Dec-2024 23:15:55.482 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+02-Dec-2024 23:15:55.482 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+02-Dec-2024 23:15:55.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+02-Dec-2024 23:15:55.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\sistema\jdk-17.0.6.10-hotspot
+02-Dec-2024 23:15:55.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.6+10
+02-Dec-2024 23:15:55.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+02-Dec-2024 23:15:55.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:15:55.485 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:15:55.522 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+02-Dec-2024 23:15:55.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+02-Dec-2024 23:15:55.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+02-Dec-2024 23:15:55.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+02-Dec-2024 23:15:55.527 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+02-Dec-2024 23:15:55.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=c:\sistema\apache-tomcat-9.0.85\conf\logging.properties
+02-Dec-2024 23:15:55.531 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+02-Dec-2024 23:15:55.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+02-Dec-2024 23:15:55.534 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+02-Dec-2024 23:15:55.535 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+02-Dec-2024 23:15:55.536 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=c:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:15:55.537 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=c:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:15:55.538 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=c:\sistema\apache-tomcat-9.0.85\temp
+02-Dec-2024 23:15:55.546 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+02-Dec-2024 23:15:55.548 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+02-Dec-2024 23:15:55.549 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+02-Dec-2024 23:15:55.569 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+02-Dec-2024 23:15:56.340 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-1111"]
+02-Dec-2024 23:15:56.390 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector["http-nio-1111"]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1011)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:127)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:554)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:127)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:1039)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:127)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:724)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:746)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:307)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:477)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:555)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:337)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:294)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:276)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:231)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1332)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1345)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:654)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:75)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1009)
+		... 13 more
+02-Dec-2024 23:15:56.393 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2495] milliseconds
+02-Dec-2024 23:15:56.535 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+02-Dec-2024 23:15:56.539 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.85]
+02-Dec-2024 23:15:56.568 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\docs]
+02-Dec-2024 23:15:57.631 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [108] milliseconds.
+02-Dec-2024 23:15:57.710 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\docs] has finished in [1,139] ms
+02-Dec-2024 23:15:57.723 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\examples]
+02-Dec-2024 23:15:59.026 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\examples] has finished in [1,304] ms
+02-Dec-2024 23:15:59.028 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\host-manager]
+02-Dec-2024 23:15:59.217 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\host-manager] has finished in [188] ms
+02-Dec-2024 23:15:59.219 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\manager]
+02-Dec-2024 23:15:59.351 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\manager] has finished in [133] ms
+02-Dec-2024 23:15:59.354 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\ROOT]
+02-Dec-2024 23:15:59.486 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\ROOT] has finished in [132] ms
+02-Dec-2024 23:15:59.510 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3106] milliseconds
+02-Dec-2024 23:15:59.536 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:555)
+		at java.base/sun.nio.ch.Net.bind(Net.java:544)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:643)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:388)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:581)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:864)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:810)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+02-Dec-2024 23:15:59.547 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-1111"]
+02-Dec-2024 23:15:59.549 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+02-Dec-2024 23:15:59.640 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-1111"]
+02-Dec-2024 23:15:59.648 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-1111"]
+02-Dec-2024 23:17:15.650 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.85
+02-Dec-2024 23:17:15.671 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 5 2024 08:28:07 UTC
+02-Dec-2024 23:17:15.672 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.85.0
+02-Dec-2024 23:17:15.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+02-Dec-2024 23:17:15.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+02-Dec-2024 23:17:15.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+02-Dec-2024 23:17:15.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\sistema\jdk-17.0.6.10-hotspot
+02-Dec-2024 23:17:15.677 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.6+10
+02-Dec-2024 23:17:15.678 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+02-Dec-2024 23:17:15.679 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:17:15.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:17:15.703 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+02-Dec-2024 23:17:15.705 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+02-Dec-2024 23:17:15.706 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+02-Dec-2024 23:17:15.706 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+02-Dec-2024 23:17:15.708 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+02-Dec-2024 23:17:15.709 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=c:\sistema\apache-tomcat-9.0.85\conf\logging.properties
+02-Dec-2024 23:17:15.711 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+02-Dec-2024 23:17:15.713 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+02-Dec-2024 23:17:15.714 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+02-Dec-2024 23:17:15.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+02-Dec-2024 23:17:15.717 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=c:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:17:15.718 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=c:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:17:15.719 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=c:\sistema\apache-tomcat-9.0.85\temp
+02-Dec-2024 23:17:15.730 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+02-Dec-2024 23:17:15.730 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+02-Dec-2024 23:17:15.732 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+02-Dec-2024 23:17:15.747 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+02-Dec-2024 23:17:16.480 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-1111"]
+02-Dec-2024 23:17:16.528 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector["http-nio-1111"]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1011)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:127)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:554)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:127)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:1039)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:127)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:724)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:746)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:307)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:477)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:555)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:337)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:294)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:276)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:231)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1332)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1345)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:654)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:75)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1009)
+		... 13 more
+02-Dec-2024 23:17:16.535 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1857] milliseconds
+02-Dec-2024 23:17:16.676 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+02-Dec-2024 23:17:16.677 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.85]
+02-Dec-2024 23:17:16.711 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\docs]
+02-Dec-2024 23:17:17.801 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\docs] has finished in [1,089] ms
+02-Dec-2024 23:17:17.802 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\examples]
+02-Dec-2024 23:17:18.911 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\examples] has finished in [1,108] ms
+02-Dec-2024 23:17:18.912 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\host-manager]
+02-Dec-2024 23:17:19.022 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\host-manager] has finished in [110] ms
+02-Dec-2024 23:17:19.024 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\manager]
+02-Dec-2024 23:17:19.113 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\manager] has finished in [88] ms
+02-Dec-2024 23:17:19.115 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\ROOT]
+02-Dec-2024 23:17:19.196 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\ROOT] has finished in [81] ms
+02-Dec-2024 23:17:19.217 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2680] milliseconds
+02-Dec-2024 23:17:19.255 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:555)
+		at java.base/sun.nio.ch.Net.bind(Net.java:544)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:643)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:388)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:581)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:864)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:810)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+02-Dec-2024 23:17:19.257 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-1111"]
+02-Dec-2024 23:17:19.264 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+02-Dec-2024 23:17:19.324 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-1111"]
+02-Dec-2024 23:17:19.329 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-1111"]
+02-Dec-2024 23:19:27.875 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\sistema\apache-tomcat-9.0.85\webapps\oxhospedaje.war]
+02-Dec-2024 23:19:41.214 INFO [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Dec-2024 23:19:41.425 INFO [Catalina-utility-1] org.directwebremoting.impl.StartupUtil.info DWR Version 2.0.11-SNAPSHOT starting.
+02-Dec-2024 23:19:41.426 INFO [Catalina-utility-1] org.directwebremoting.impl.StartupUtil.info - Servlet Engine: Apache Tomcat/9.0.85
+02-Dec-2024 23:19:41.428 INFO [Catalina-utility-1] org.directwebremoting.impl.StartupUtil.info - Java Version:   17.0.6
+02-Dec-2024 23:19:41.429 INFO [Catalina-utility-1] org.directwebremoting.impl.StartupUtil.info - Java Vendor:    Eclipse Adoptium
+02-Dec-2024 23:19:41.885 INFO [Catalina-utility-1] org.directwebremoting.dwrp.DefaultConverterManager.info Probably not an issue: org.jdom.Document is not available so the jdom converter will not load. This is only a problem if you wanted to use it.
+02-Dec-2024 23:19:41.892 INFO [Catalina-utility-1] org.directwebremoting.dwrp.DefaultConverterManager.info Probably not an issue: org.jdom.Element is not available so the jdom converter will not load. This is only a problem if you wanted to use it.
+02-Dec-2024 23:19:41.974 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\sistema\apache-tomcat-9.0.85\webapps\oxhospedaje.war] has finished in [14,099] ms
+02-Dec-2024 23:25:51.258 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.85
+02-Dec-2024 23:25:51.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 5 2024 08:28:07 UTC
+02-Dec-2024 23:25:51.357 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.85.0
+02-Dec-2024 23:25:51.371 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+02-Dec-2024 23:25:51.378 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+02-Dec-2024 23:25:51.381 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+02-Dec-2024 23:25:51.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\sistema\jdk-17.0.6.10-hotspot
+02-Dec-2024 23:25:51.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.6+10
+02-Dec-2024 23:25:51.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+02-Dec-2024 23:25:51.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:25:51.404 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:25:51.410 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+02-Dec-2024 23:25:51.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+02-Dec-2024 23:25:51.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+02-Dec-2024 23:25:51.416 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+02-Dec-2024 23:25:51.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+02-Dec-2024 23:25:51.419 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=c:\sistema\apache-tomcat-9.0.85\conf\logging.properties
+02-Dec-2024 23:25:51.421 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+02-Dec-2024 23:25:51.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+02-Dec-2024 23:25:51.423 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+02-Dec-2024 23:25:51.431 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+02-Dec-2024 23:25:51.435 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=c:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:25:51.437 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=c:\sistema\apache-tomcat-9.0.85
+02-Dec-2024 23:25:51.438 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=c:\sistema\apache-tomcat-9.0.85\temp
+02-Dec-2024 23:25:51.458 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+02-Dec-2024 23:25:51.460 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+02-Dec-2024 23:25:51.466 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+02-Dec-2024 23:25:51.528 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+02-Dec-2024 23:25:54.009 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-1111"]
+02-Dec-2024 23:25:54.211 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [4535] milliseconds
+02-Dec-2024 23:25:55.024 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+02-Dec-2024 23:25:55.097 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.85]
+02-Dec-2024 23:25:55.425 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\sistema\apache-tomcat-9.0.85\webapps\oxhospedaje.war]
+02-Dec-2024 23:26:10.275 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Dec-2024 23:26:10.760 INFO [main] org.directwebremoting.impl.StartupUtil.info DWR Version 2.0.11-SNAPSHOT starting.
+02-Dec-2024 23:26:10.761 INFO [main] org.directwebremoting.impl.StartupUtil.info - Servlet Engine: Apache Tomcat/9.0.85
+02-Dec-2024 23:26:10.766 INFO [main] org.directwebremoting.impl.StartupUtil.info - Java Version:   17.0.6
+02-Dec-2024 23:26:10.767 INFO [main] org.directwebremoting.impl.StartupUtil.info - Java Vendor:    Eclipse Adoptium
+02-Dec-2024 23:26:11.182 INFO [main] org.directwebremoting.dwrp.DefaultConverterManager.info Probably not an issue: org.jdom.Document is not available so the jdom converter will not load. This is only a problem if you wanted to use it.
+02-Dec-2024 23:26:11.184 INFO [main] org.directwebremoting.dwrp.DefaultConverterManager.info Probably not an issue: org.jdom.Element is not available so the jdom converter will not load. This is only a problem if you wanted to use it.
+02-Dec-2024 23:26:11.261 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\sistema\apache-tomcat-9.0.85\webapps\oxhospedaje.war] has finished in [15,835] ms
+02-Dec-2024 23:26:11.263 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\docs]
+02-Dec-2024 23:26:11.361 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\docs] has finished in [97] ms
+02-Dec-2024 23:26:11.363 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\examples]
+02-Dec-2024 23:26:12.300 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\examples] has finished in [937] ms
+02-Dec-2024 23:26:12.302 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\host-manager]
+02-Dec-2024 23:26:12.399 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\host-manager] has finished in [97] ms
+02-Dec-2024 23:26:12.400 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\manager]
+02-Dec-2024 23:26:12.497 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\manager] has finished in [96] ms
+02-Dec-2024 23:26:12.499 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\ROOT]
+02-Dec-2024 23:26:12.588 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\sistema\apache-tomcat-9.0.85\webapps\ROOT] has finished in [88] ms
+02-Dec-2024 23:26:12.603 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-1111"]
+02-Dec-2024 23:26:12.724 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [18504] milliseconds
+02-Dec-2024 23:26:28.338 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A01EnAlquiler
+02-Dec-2024 23:26:28.373 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Personas
+02-Dec-2024 23:26:28.405 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Nacionalidad
+02-Dec-2024 23:26:28.466 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Inmueble
+02-Dec-2024 23:26:28.487 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id TipoDeInmueble
+02-Dec-2024 23:26:28.508 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Moneda
+02-Dec-2024 23:26:28.548 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A08ReporteEstadoDeCuenta
+02-Dec-2024 23:26:28.569 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A06PagoProveedores
+02-Dec-2024 23:26:28.590 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Proveedores
+02-Dec-2024 23:26:28.609 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id ModalidadDePago
+02-Dec-2024 23:26:28.632 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id ConceptosDePagos
+02-Dec-2024 23:26:28.647 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A04MontoExonerado
+02-Dec-2024 23:26:28.662 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A03CobroPersonas
+02-Dec-2024 23:26:28.681 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id TasaDeCambio
+02-Dec-2024 23:26:28.695 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A09ReporteIngresosEgresos
+02-Dec-2024 23:26:28.723 INFO [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.<clinit> OpenXava 7.2.2 (2024-1-5)
+02-Dec-2024 23:26:28.732 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id oxhospedaje
+02-Dec-2024 23:26:29.995 WARNING [http-nio-1111-exec-5] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id A02EnAlquilerCerrado
+02-Dec-2024 23:26:31.031 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:FirstSteps
+02-Dec-2024 23:26:36.096 FINE [http-nio-1111-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=3313 ms
+02-Dec-2024 23:26:38.298 FINE [http-nio-1111-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A01EnAlquiler
+02-Dec-2024 23:26:39.492 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id personaResponsable
+02-Dec-2024 23:26:39.504 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id habitacion
+02-Dec-2024 23:26:39.802 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDeAlquiler
+02-Dec-2024 23:26:39.809 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+02-Dec-2024 23:26:39.816 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id precioAcordado
+02-Dec-2024 23:26:39.824 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id abierto
+02-Dec-2024 23:26:42.489 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id select
+02-Dec-2024 23:26:42.506 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Cards
+02-Dec-2024 23:26:42.541 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id Calendar
+02-Dec-2024 23:26:44.249 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDeAlquiler
+02-Dec-2024 23:26:44.264 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id personaResponsable
+02-Dec-2024 23:26:44.269 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+02-Dec-2024 23:26:44.276 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id habitacion
+02-Dec-2024 23:26:44.286 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id habitacion
+02-Dec-2024 23:26:44.296 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id precioAcordado
+02-Dec-2024 23:26:44.299 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id tipoDeMoneda
+02-Dec-2024 23:26:44.303 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id abierto
+02-Dec-2024 23:26:46.981 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:26:47.010 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=33
+02-Dec-2024 23:26:48.399 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeAlquiler, e_personaResponsable.descripcion, e.habitacion.id, e_habitacion.descripcion, e.precioAcordado, e_tipoDeMoneda.descripcion, e.abierto, e.observaciones from A01EnAlquiler e left join e.personaResponsable e_personaResponsable left join e.habitacion e_habitacion left join e.tipoDeMoneda e_tipoDeMoneda where e.abierto = true con argumentos
+02-Dec-2024 23:26:48.438 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=69
+02-Dec-2024 23:26:48.984 FINE [http-nio-1111-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=9697 ms
+02-Dec-2024 23:26:53.170 FINE [http-nio-1111-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A02EnAlquilerCerrado
+02-Dec-2024 23:26:55.167 WARNING [http-nio-1111-exec-1] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDeAlquiler
+02-Dec-2024 23:26:55.173 WARNING [http-nio-1111-exec-1] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+02-Dec-2024 23:26:55.186 WARNING [http-nio-1111-exec-1] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id precioAcordado
+02-Dec-2024 23:26:55.189 WARNING [http-nio-1111-exec-1] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id abierto
+02-Dec-2024 23:26:55.453 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:26:55.456 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:26:55.485 FINE [http-nio-1111-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=577 ms
+02-Dec-2024 23:26:57.900 FINE [http-nio-1111-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A03CobroPersonas
+02-Dec-2024 23:26:58.655 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id personaResponsable
+02-Dec-2024 23:26:58.708 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDelCobro
+02-Dec-2024 23:26:58.724 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id cedula
+02-Dec-2024 23:26:58.749 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoCobrado
+02-Dec-2024 23:26:58.972 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDelCobro
+02-Dec-2024 23:26:58.982 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id cedula
+02-Dec-2024 23:26:58.986 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id personaResponsable
+02-Dec-2024 23:26:58.997 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoCobrado
+02-Dec-2024 23:26:59.001 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id formaDeCobro
+02-Dec-2024 23:26:59.102 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:26:59.113 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=13
+02-Dec-2024 23:26:59.131 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelCobro, e_personaResponsable.cedula, e_personaResponsable.descripcion, e.montoCobrado, e_formaDeCobro.descripcion from A03CobroPersonas e left join e.personaResponsable e_personaResponsable left join e.personaResponsable e_personaResponsable left join e.formaDeCobro e_formaDeCobro con argumentos
+02-Dec-2024 23:26:59.142 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=21
+02-Dec-2024 23:26:59.168 FINE [http-nio-1111-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=526 ms
+02-Dec-2024 23:27:02.295 FINE [http-nio-1111-exec-1] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A04MontoExonerado
+02-Dec-2024 23:27:03.122 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDeLaExoneracion
+02-Dec-2024 23:27:03.136 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoExonerado
+02-Dec-2024 23:27:03.154 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+02-Dec-2024 23:27:03.453 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDeLaExoneracion
+02-Dec-2024 23:27:03.468 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoExonerado
+02-Dec-2024 23:27:03.475 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id concepto
+02-Dec-2024 23:27:03.482 WARNING [http-nio-1111-exec-8] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id concepto
+02-Dec-2024 23:27:03.608 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:27:03.630 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=22
+02-Dec-2024 23:27:03.681 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:27:03.696 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=19
+02-Dec-2024 23:27:03.728 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeLaExoneracion, e_personaResponsable.descripcion, e.montoExonerado, e_tipoDeMoneda.descripcion, e.concepto.id, e_concepto.descripcion from A04MontoExonerado e left join e.personaResponsable e_personaResponsable left join e.tipoDeMoneda e_tipoDeMoneda left join e.concepto e_concepto con argumentos
+02-Dec-2024 23:27:03.740 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=28
+02-Dec-2024 23:27:03.784 FINE [http-nio-1111-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=724 ms
+02-Dec-2024 23:27:06.190 FINE [http-nio-1111-exec-7] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A06PagoProveedores
+02-Dec-2024 23:27:06.943 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id proveedor
+02-Dec-2024 23:27:07.003 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDelPago
+02-Dec-2024 23:27:07.018 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id rif
+02-Dec-2024 23:27:07.029 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoPagado
+02-Dec-2024 23:27:07.239 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDelPago
+02-Dec-2024 23:27:07.268 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id rif
+02-Dec-2024 23:27:07.270 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id proveedor
+02-Dec-2024 23:27:07.281 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id proveedor
+02-Dec-2024 23:27:07.289 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoPagado
+02-Dec-2024 23:27:07.305 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id formaDePago
+02-Dec-2024 23:27:07.580 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:27:07.602 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=29
+02-Dec-2024 23:27:07.654 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:27:07.694 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=39
+02-Dec-2024 23:27:07.822 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelPago, e_proveedor.rif, e_proveedor.descripcion, e.montoPagado, e_formaDePago.descripcion, e_concepto.descripcion from A06PagoProveedores e left join e.proveedor e_proveedor left join e.proveedor e_proveedor left join e.formaDePago e_formaDePago left join e.concepto e_concepto con argumentos
+02-Dec-2024 23:27:07.834 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=20
+02-Dec-2024 23:27:07.915 FINE [http-nio-1111-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=984 ms
+02-Dec-2024 23:27:09.263 FINE [http-nio-1111-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A08ReporteEstadoDeCuenta
+02-Dec-2024 23:27:10.207 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDelCierre
+02-Dec-2024 23:27:10.250 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id cedula
+02-Dec-2024 23:27:10.299 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id cantidadDeDias
+02-Dec-2024 23:27:10.318 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoAdeudado
+02-Dec-2024 23:27:10.322 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoExonerado
+02-Dec-2024 23:27:10.341 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoCobrado
+02-Dec-2024 23:27:10.352 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id saldoPendente
+02-Dec-2024 23:27:10.607 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDelCierre
+02-Dec-2024 23:27:10.627 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id cantidadDeDias
+02-Dec-2024 23:27:10.631 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoAdeudado
+02-Dec-2024 23:27:10.635 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoExonerado
+02-Dec-2024 23:27:10.639 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoCobrado
+02-Dec-2024 23:27:10.648 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id saldoPendente
+02-Dec-2024 23:27:10.744 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelCierre, e.cedula, e.nombre, e.telefono, e.cantidadDeDias, e.montoAdeudado, e.montoExonerado, e.montoCobrado, e.saldoPendente from A08ReporteEstadoDeCuenta e con argumentos
+02-Dec-2024 23:27:10.749 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=14
+02-Dec-2024 23:27:10.964 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id VerFacturasPendientes
+02-Dec-2024 23:27:10.977 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id VerEmpresasDeLaFactura
+02-Dec-2024 23:27:11.004 FINE [http-nio-1111-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=824 ms
+02-Dec-2024 23:27:13.945 FINE [http-nio-1111-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A09ReporteIngresosEgresos
+02-Dec-2024 23:27:14.709 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDelCierre
+02-Dec-2024 23:27:14.721 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoCobradoDeClientes
+02-Dec-2024 23:27:14.729 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoExoneradoDeClientes
+02-Dec-2024 23:27:14.741 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoDeudorDelClientes
+02-Dec-2024 23:27:14.752 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoPagadoAProveedor
+02-Dec-2024 23:27:14.756 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id saldoIngreso
+02-Dec-2024 23:27:14.760 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id saldoEgreso
+02-Dec-2024 23:27:14.762 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id saldo
+02-Dec-2024 23:27:15.028 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDelCierre
+02-Dec-2024 23:27:15.060 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoCobradoDeClientes
+02-Dec-2024 23:27:15.062 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoExoneradoDeClientes
+02-Dec-2024 23:27:15.074 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoDeudorDelClientes
+02-Dec-2024 23:27:15.077 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoPagadoAProveedor
+02-Dec-2024 23:27:15.083 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id saldoIngreso
+02-Dec-2024 23:27:15.090 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id saldoEgreso
+02-Dec-2024 23:27:15.092 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id saldo
+02-Dec-2024 23:27:15.183 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelCierre, e.montoCobradoDeClientes, e.montoExoneradoDeClientes, e.montoDeudorDelClientes, e.montoPagadoAProveedor, e.saldoIngreso, e.saldoEgreso, e.saldo from A09ReporteIngresosEgresos e con argumentos
+02-Dec-2024 23:27:15.193 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=18
+02-Dec-2024 23:27:15.274 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id VerFacturasPendientes
+02-Dec-2024 23:27:15.287 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id VerEmpresasDeLaFactura
+02-Dec-2024 23:27:15.299 FINE [http-nio-1111-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=643 ms
+02-Dec-2024 23:27:20.611 FINE [http-nio-1111-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:ConceptosDePagos
+02-Dec-2024 23:27:21.448 WARNING [http-nio-1111-exec-7] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+02-Dec-2024 23:27:21.689 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:27:21.771 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=120
+02-Dec-2024 23:27:21.816 FINE [http-nio-1111-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=387 ms
+02-Dec-2024 23:27:25.186 FINE [http-nio-1111-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Inmueble
+02-Dec-2024 23:27:25.862 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+02-Dec-2024 23:27:25.875 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+02-Dec-2024 23:27:26.146 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id tipoDeInmueble
+02-Dec-2024 23:27:26.162 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id tipoDeInmueble
+02-Dec-2024 23:27:26.240 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from TipoDeInmueble e con argumentos
+02-Dec-2024 23:27:26.244 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:27:26.258 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion, e.tipoDeInmueble.id, e_tipoDeInmueble.descripcion from Inmueble e left join e.tipoDeInmueble e_tipoDeInmueble con argumentos
+02-Dec-2024 23:27:26.261 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=7
+02-Dec-2024 23:27:26.312 FINE [http-nio-1111-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=466 ms
+02-Dec-2024 23:27:28.712 FINE [http-nio-1111-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:ModalidadDePago
+02-Dec-2024 23:27:29.403 WARNING [http-nio-1111-exec-1] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+02-Dec-2024 23:27:29.521 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:27:29.525 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=16
+02-Dec-2024 23:27:29.560 FINE [http-nio-1111-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=172 ms
+02-Dec-2024 23:27:33.846 FINE [http-nio-1111-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Moneda
+02-Dec-2024 23:27:34.649 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:27:34.655 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=8
+02-Dec-2024 23:27:34.684 FINE [http-nio-1111-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=233 ms
+02-Dec-2024 23:27:37.672 FINE [http-nio-1111-exec-1] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Nacionalidad
+02-Dec-2024 23:27:38.324 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+02-Dec-2024 23:27:38.441 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:27:38.445 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=8
+02-Dec-2024 23:27:38.466 FINE [http-nio-1111-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=174 ms
+02-Dec-2024 23:27:41.146 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Inmueble
+02-Dec-2024 23:27:42.007 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from TipoDeInmueble e con argumentos
+02-Dec-2024 23:27:42.018 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=12
+02-Dec-2024 23:27:42.025 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion, e.tipoDeInmueble.id, e_tipoDeInmueble.descripcion from Inmueble e left join e.tipoDeInmueble e_tipoDeInmueble con argumentos
+02-Dec-2024 23:27:42.034 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=10
+02-Dec-2024 23:27:42.085 FINE [http-nio-1111-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=282 ms
+02-Dec-2024 23:27:45.508 FINE [http-nio-1111-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Proveedores
+02-Dec-2024 23:27:46.226 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id rif
+02-Dec-2024 23:27:46.239 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id telefonoProveedor
+02-Dec-2024 23:27:46.260 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id direccionProveedor
+02-Dec-2024 23:27:46.515 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id telefonoProveedor
+02-Dec-2024 23:27:46.527 WARNING [http-nio-1111-exec-9] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id direccionProveedor
+02-Dec-2024 23:27:46.598 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.rif, e.descripcion, e.telefonoProveedor, e.direccionProveedor from Proveedores e con argumentos
+02-Dec-2024 23:27:46.604 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=12
+02-Dec-2024 23:27:46.629 FINE [http-nio-1111-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=421 ms
+02-Dec-2024 23:27:49.869 FINE [http-nio-1111-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A01EnAlquiler
+02-Dec-2024 23:27:50.903 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:27:50.907 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:27:50.926 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeAlquiler, e_personaResponsable.descripcion, e.habitacion.id, e_habitacion.descripcion, e.precioAcordado, e_tipoDeMoneda.descripcion, e.abierto, e.observaciones from A01EnAlquiler e left join e.personaResponsable e_personaResponsable left join e.habitacion e_habitacion left join e.tipoDeMoneda e_tipoDeMoneda where e.abierto = true con argumentos
+02-Dec-2024 23:27:50.938 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=12
+02-Dec-2024 23:27:51.036 FINE [http-nio-1111-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=509 ms
+02-Dec-2024 23:27:55.046 FINE [http-nio-1111-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A02EnAlquilerCerrado
+02-Dec-2024 23:27:55.971 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:27:55.985 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=15
+02-Dec-2024 23:27:56.013 FINE [http-nio-1111-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=325 ms
+02-Dec-2024 23:27:57.743 FINE [http-nio-1111-exec-7] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A03CobroPersonas
+02-Dec-2024 23:27:58.541 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:27:58.553 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=10
+02-Dec-2024 23:27:58.562 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelCobro, e_personaResponsable.cedula, e_personaResponsable.descripcion, e.montoCobrado, e_formaDeCobro.descripcion from A03CobroPersonas e left join e.personaResponsable e_personaResponsable left join e.personaResponsable e_personaResponsable left join e.formaDeCobro e_formaDeCobro con argumentos
+02-Dec-2024 23:27:58.567 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:27:58.583 FINE [http-nio-1111-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=185 ms
+02-Dec-2024 23:28:01.165 FINE [http-nio-1111-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A04MontoExonerado
+02-Dec-2024 23:28:02.342 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:28:02.363 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=20
+02-Dec-2024 23:28:02.375 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:28:02.378 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+02-Dec-2024 23:28:02.390 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeLaExoneracion, e_personaResponsable.descripcion, e.montoExonerado, e_tipoDeMoneda.descripcion, e.concepto.id, e_concepto.descripcion from A04MontoExonerado e left join e.personaResponsable e_personaResponsable left join e.tipoDeMoneda e_tipoDeMoneda left join e.concepto e_concepto con argumentos
+02-Dec-2024 23:28:02.392 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:28:02.416 FINE [http-nio-1111-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=380 ms
+02-Dec-2024 23:28:04.279 FINE [http-nio-1111-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A06PagoProveedores
+02-Dec-2024 23:28:05.141 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:28:05.202 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=61
+02-Dec-2024 23:28:05.249 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:28:05.292 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=43
+02-Dec-2024 23:28:05.314 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelPago, e_proveedor.rif, e_proveedor.descripcion, e.montoPagado, e_formaDePago.descripcion, e_concepto.descripcion from A06PagoProveedores e left join e.proveedor e_proveedor left join e.proveedor e_proveedor left join e.formaDePago e_formaDePago left join e.concepto e_concepto con argumentos
+02-Dec-2024 23:28:05.328 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=11
+02-Dec-2024 23:28:05.372 FINE [http-nio-1111-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=375 ms
+02-Dec-2024 23:28:07.560 FINE [http-nio-1111-exec-1] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A08ReporteEstadoDeCuenta
+02-Dec-2024 23:28:08.369 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelCierre, e.cedula, e.nombre, e.telefono, e.cantidadDeDias, e.montoAdeudado, e.montoExonerado, e.montoCobrado, e.saldoPendente from A08ReporteEstadoDeCuenta e con argumentos
+02-Dec-2024 23:28:08.381 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=13
+02-Dec-2024 23:28:08.441 FINE [http-nio-1111-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=227 ms
+02-Dec-2024 23:28:09.416 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A09ReporteIngresosEgresos
+02-Dec-2024 23:28:10.279 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelCierre, e.montoCobradoDeClientes, e.montoExoneradoDeClientes, e.montoDeudorDelClientes, e.montoPagadoAProveedor, e.saldoIngreso, e.saldoEgreso, e.saldo from A09ReporteIngresosEgresos e con argumentos
+02-Dec-2024 23:28:10.283 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:28:10.326 FINE [http-nio-1111-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=201 ms
+02-Dec-2024 23:28:11.390 FINE [http-nio-1111-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:ConceptosDePagos
+02-Dec-2024 23:28:12.213 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:28:12.224 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=14
+02-Dec-2024 23:28:12.252 FINE [http-nio-1111-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=115 ms
+02-Dec-2024 23:28:13.790 FINE [http-nio-1111-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A02EnAlquilerCerrado
+02-Dec-2024 23:28:14.831 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:28:14.841 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=9
+02-Dec-2024 23:28:14.873 FINE [http-nio-1111-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=421 ms
+02-Dec-2024 23:28:18.009 FINE [http-nio-1111-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A03CobroPersonas
+02-Dec-2024 23:28:19.017 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:28:19.022 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:28:19.029 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelCobro, e_personaResponsable.cedula, e_personaResponsable.descripcion, e.montoCobrado, e_formaDeCobro.descripcion from A03CobroPersonas e left join e.personaResponsable e_personaResponsable left join e.personaResponsable e_personaResponsable left join e.formaDeCobro e_formaDeCobro con argumentos
+02-Dec-2024 23:28:19.035 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=7
+02-Dec-2024 23:28:19.071 FINE [http-nio-1111-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=225 ms
+02-Dec-2024 23:28:19.970 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A04MontoExonerado
+02-Dec-2024 23:28:20.743 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:28:20.746 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+02-Dec-2024 23:28:20.774 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:28:20.777 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:28:20.782 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeLaExoneracion, e_personaResponsable.descripcion, e.montoExonerado, e_tipoDeMoneda.descripcion, e.concepto.id, e_concepto.descripcion from A04MontoExonerado e left join e.personaResponsable e_personaResponsable left join e.tipoDeMoneda e_tipoDeMoneda left join e.concepto e_concepto con argumentos
+02-Dec-2024 23:28:20.787 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:28:20.802 FINE [http-nio-1111-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=170 ms
+02-Dec-2024 23:28:21.564 FINE [http-nio-1111-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A06PagoProveedores
+02-Dec-2024 23:28:22.497 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:28:22.528 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=30
+02-Dec-2024 23:28:22.540 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:28:22.546 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:28:22.562 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelPago, e_proveedor.rif, e_proveedor.descripcion, e.montoPagado, e_formaDePago.descripcion, e_concepto.descripcion from A06PagoProveedores e left join e.proveedor e_proveedor left join e.proveedor e_proveedor left join e.formaDePago e_formaDePago left join e.concepto e_concepto con argumentos
+02-Dec-2024 23:28:22.592 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=30
+02-Dec-2024 23:28:22.628 FINE [http-nio-1111-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=260 ms
+02-Dec-2024 23:28:23.282 FINE [http-nio-1111-exec-1] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A08ReporteEstadoDeCuenta
+02-Dec-2024 23:28:24.276 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelCierre, e.cedula, e.nombre, e.telefono, e.cantidadDeDias, e.montoAdeudado, e.montoExonerado, e.montoCobrado, e.saldoPendente from A08ReporteEstadoDeCuenta e con argumentos
+02-Dec-2024 23:28:24.279 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=14
+02-Dec-2024 23:28:24.384 FINE [http-nio-1111-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=344 ms
+02-Dec-2024 23:28:24.896 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A09ReporteIngresosEgresos
+02-Dec-2024 23:28:25.738 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelCierre, e.montoCobradoDeClientes, e.montoExoneradoDeClientes, e.montoDeudorDelClientes, e.montoPagadoAProveedor, e.saldoIngreso, e.saldoEgreso, e.saldo from A09ReporteIngresosEgresos e con argumentos
+02-Dec-2024 23:28:25.749 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=14
+02-Dec-2024 23:28:25.795 FINE [http-nio-1111-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=256 ms
+02-Dec-2024 23:28:26.670 FINE [http-nio-1111-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:ConceptosDePagos
+02-Dec-2024 23:28:27.622 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:28:27.625 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=21
+02-Dec-2024 23:28:27.651 FINE [http-nio-1111-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=167 ms
+02-Dec-2024 23:28:31.864 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Inmueble
+02-Dec-2024 23:28:32.827 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from TipoDeInmueble e con argumentos
+02-Dec-2024 23:28:32.835 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=8
+02-Dec-2024 23:28:32.861 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion, e.tipoDeInmueble.id, e_tipoDeInmueble.descripcion from Inmueble e left join e.tipoDeInmueble e_tipoDeInmueble con argumentos
+02-Dec-2024 23:28:32.876 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=15
+02-Dec-2024 23:28:32.962 FINE [http-nio-1111-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=338 ms
+02-Dec-2024 23:28:34.659 FINE [http-nio-1111-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:ConceptosDePagos
+02-Dec-2024 23:28:35.383 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:28:35.392 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=13
+02-Dec-2024 23:28:35.429 FINE [http-nio-1111-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=105 ms
+02-Dec-2024 23:28:38.444 FINE [http-nio-1111-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.new 108ms
+02-Dec-2024 23:28:40.605 WARNING [http-nio-1111-exec-6] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+02-Dec-2024 23:28:40.683 FINE [http-nio-1111-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=2358 ms
+02-Dec-2024 23:28:47.762 FINE [http-nio-1111-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.save 666ms
+02-Dec-2024 23:28:48.229 FINE [http-nio-1111-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=1143 ms
+02-Dec-2024 23:28:54.112 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.save 9ms
+02-Dec-2024 23:28:54.132 FINE [http-nio-1111-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=33 ms
+02-Dec-2024 23:29:00.841 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.save 7ms
+02-Dec-2024 23:29:00.861 FINE [http-nio-1111-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=33 ms
+02-Dec-2024 23:29:02.840 FINE [http-nio-1111-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A01EnAlquiler
+02-Dec-2024 23:29:03.836 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:29:03.849 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=13
+02-Dec-2024 23:29:03.871 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeAlquiler, e_personaResponsable.descripcion, e.habitacion.id, e_habitacion.descripcion, e.precioAcordado, e_tipoDeMoneda.descripcion, e.abierto, e.observaciones from A01EnAlquiler e left join e.personaResponsable e_personaResponsable left join e.habitacion e_habitacion left join e.tipoDeMoneda e_tipoDeMoneda where e.abierto = true con argumentos
+02-Dec-2024 23:29:03.885 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=15
+02-Dec-2024 23:29:03.968 FINE [http-nio-1111-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=430 ms
+02-Dec-2024 23:51:18.757 FINE [http-nio-1111-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A03CobroPersonas
+02-Dec-2024 23:51:19.974 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:51:19.984 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=10
+02-Dec-2024 23:51:19.990 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelCobro, e_personaResponsable.cedula, e_personaResponsable.descripcion, e.montoCobrado, e_formaDeCobro.descripcion from A03CobroPersonas e left join e.personaResponsable e_personaResponsable left join e.personaResponsable e_personaResponsable left join e.formaDeCobro e_formaDeCobro con argumentos
+02-Dec-2024 23:51:19.998 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=8
+02-Dec-2024 23:51:20.048 FINE [http-nio-1111-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=480 ms
+02-Dec-2024 23:51:22.085 FINE [http-nio-1111-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A04MontoExonerado
+02-Dec-2024 23:51:23.171 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:51:23.199 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=30
+02-Dec-2024 23:51:23.237 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:51:23.248 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=11
+02-Dec-2024 23:51:23.262 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeLaExoneracion, e_personaResponsable.descripcion, e.montoExonerado, e_tipoDeMoneda.descripcion, e.concepto.id, e_concepto.descripcion from A04MontoExonerado e left join e.personaResponsable e_personaResponsable left join e.tipoDeMoneda e_tipoDeMoneda left join e.concepto e_concepto con argumentos
+02-Dec-2024 23:51:23.267 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:51:23.316 FINE [http-nio-1111-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=331 ms
+02-Dec-2024 23:51:24.992 FINE [http-nio-1111-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A06PagoProveedores
+02-Dec-2024 23:51:26.362 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:51:26.377 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=16
+02-Dec-2024 23:51:26.394 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:51:26.400 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:51:26.409 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelPago, e_proveedor.rif, e_proveedor.descripcion, e.montoPagado, e_formaDePago.descripcion, e_concepto.descripcion from A06PagoProveedores e left join e.proveedor e_proveedor left join e.proveedor e_proveedor left join e.formaDePago e_formaDePago left join e.concepto e_concepto con argumentos
+02-Dec-2024 23:51:26.414 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:51:26.460 FINE [http-nio-1111-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=515 ms
+02-Dec-2024 23:51:30.255 FINE [http-nio-1111-exec-7] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A08ReporteEstadoDeCuenta
+02-Dec-2024 23:51:32.412 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelCierre, e.cedula, e.nombre, e.telefono, e.cantidadDeDias, e.montoAdeudado, e.montoExonerado, e.montoCobrado, e.saldoPendente from A08ReporteEstadoDeCuenta e con argumentos
+02-Dec-2024 23:51:32.417 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:51:32.472 FINE [http-nio-1111-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=1464 ms
+02-Dec-2024 23:51:35.987 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A09ReporteIngresosEgresos
+02-Dec-2024 23:51:37.049 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelCierre, e.montoCobradoDeClientes, e.montoExoneradoDeClientes, e.montoDeudorDelClientes, e.montoPagadoAProveedor, e.saldoIngreso, e.saldoEgreso, e.saldo from A09ReporteIngresosEgresos e con argumentos
+02-Dec-2024 23:51:37.094 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=48
+02-Dec-2024 23:51:37.160 FINE [http-nio-1111-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=425 ms
+02-Dec-2024 23:51:46.419 FINE [http-nio-1111-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A01EnAlquiler
+02-Dec-2024 23:51:47.318 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:51:47.331 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=13
+02-Dec-2024 23:51:47.359 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeAlquiler, e_personaResponsable.descripcion, e.habitacion.id, e_habitacion.descripcion, e.precioAcordado, e_tipoDeMoneda.descripcion, e.abierto, e.observaciones from A01EnAlquiler e left join e.personaResponsable e_personaResponsable left join e.habitacion e_habitacion left join e.tipoDeMoneda e_tipoDeMoneda where e.abierto = true con argumentos
+02-Dec-2024 23:51:47.366 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=9
+02-Dec-2024 23:51:47.458 FINE [http-nio-1111-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=394 ms
+02-Dec-2024 23:51:52.592 FINE [http-nio-1111-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Personas
+02-Dec-2024 23:51:53.884 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+02-Dec-2024 23:51:53.895 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id cedula
+02-Dec-2024 23:51:54.104 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id nacionalidad
+02-Dec-2024 23:51:54.107 WARNING [http-nio-1111-exec-4] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id nacionalidad
+02-Dec-2024 23:51:54.171 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:51:54.174 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:51:54.190 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.nacionalidad.id, e_nacionalidad.descripcion, e.cedula, e.descripcion, e.telefono, e.direccion from Personas e left join e.nacionalidad e_nacionalidad con argumentos
+02-Dec-2024 23:51:54.196 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=9
+02-Dec-2024 23:51:54.238 FINE [http-nio-1111-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=366 ms
+02-Dec-2024 23:51:56.543 FINE [http-nio-1111-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.new 0ms
+02-Dec-2024 23:51:57.352 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:51:57.357 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:51:57.404 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id cedula
+02-Dec-2024 23:51:57.936 FINE [http-nio-1111-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=1397 ms
+02-Dec-2024 23:52:12.575 FINE [http-nio-1111-exec-1] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.save 118ms
+02-Dec-2024 23:52:12.607 FINE [http-nio-1111-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=155 ms
+02-Dec-2024 23:52:25.008 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.save 410ms
+02-Dec-2024 23:52:25.080 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:52:25.090 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=11
+02-Dec-2024 23:52:25.100 FINE [http-nio-1111-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=506 ms
+02-Dec-2024 23:52:27.100 FINE [http-nio-1111-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 admin Mode.list 5ms
+02-Dec-2024 23:52:27.209 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:52:27.215 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:52:27.226 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.nacionalidad.id, e_nacionalidad.descripcion, e.cedula, e.descripcion, e.telefono, e.direccion from Personas e left join e.nacionalidad e_nacionalidad con argumentos
+02-Dec-2024 23:52:27.228 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:52:27.272 FINE [http-nio-1111-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=180 ms
+02-Dec-2024 23:52:36.510 FINE [http-nio-1111-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A01EnAlquiler
+02-Dec-2024 23:52:37.562 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:52:37.567 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:52:37.587 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeAlquiler, e_personaResponsable.descripcion, e.habitacion.id, e_habitacion.descripcion, e.precioAcordado, e_tipoDeMoneda.descripcion, e.abierto, e.observaciones from A01EnAlquiler e left join e.personaResponsable e_personaResponsable left join e.habitacion e_habitacion left join e.tipoDeMoneda e_tipoDeMoneda where e.abierto = true con argumentos
+02-Dec-2024 23:52:37.592 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:52:37.660 FINE [http-nio-1111-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=443 ms
+02-Dec-2024 23:52:39.561 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.new 106ms
+02-Dec-2024 23:52:39.605 WARNING [http-nio-1111-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDeAlquiler
+02-Dec-2024 23:52:40.699 WARNING [http-nio-1111-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+02-Dec-2024 23:52:40.737 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:52:40.741 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:52:40.754 WARNING [http-nio-1111-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id cedula
+02-Dec-2024 23:52:40.786 WARNING [http-nio-1111-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+02-Dec-2024 23:52:40.820 WARNING [http-nio-1111-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+02-Dec-2024 23:52:40.829 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from TipoDeInmueble e con argumentos
+02-Dec-2024 23:52:40.834 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=10
+02-Dec-2024 23:52:40.838 WARNING [http-nio-1111-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id precioAcordado
+02-Dec-2024 23:52:40.848 WARNING [http-nio-1111-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id tipoDeMoneda
+02-Dec-2024 23:52:40.863 WARNING [http-nio-1111-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+02-Dec-2024 23:52:40.872 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:52:40.875 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:52:40.886 WARNING [http-nio-1111-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id abierto
+02-Dec-2024 23:52:42.262 WARNING [http-nio-1111-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id descripcionDeLaImagen
+02-Dec-2024 23:52:42.702 FINE [http-nio-1111-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=3249 ms
+02-Dec-2024 23:52:45.019 FINE [http-nio-1111-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 admin Mode.list 1ms
+02-Dec-2024 23:52:45.243 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:52:45.249 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:52:45.265 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeAlquiler, e_personaResponsable.descripcion, e.habitacion.id, e_habitacion.descripcion, e.precioAcordado, e_tipoDeMoneda.descripcion, e.abierto, e.observaciones from A01EnAlquiler e left join e.personaResponsable e_personaResponsable left join e.habitacion e_habitacion left join e.tipoDeMoneda e_tipoDeMoneda where e.abierto = true con argumentos
+02-Dec-2024 23:52:45.268 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:52:45.348 FINE [http-nio-1111-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=346 ms
+02-Dec-2024 23:52:49.456 FINE [http-nio-1111-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Moneda
+02-Dec-2024 23:52:50.279 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:52:50.362 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=86
+02-Dec-2024 23:52:50.427 FINE [http-nio-1111-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=342 ms
+02-Dec-2024 23:52:55.782 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.deleteRow 331ms
+02-Dec-2024 23:52:55.815 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:52:55.817 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+02-Dec-2024 23:52:55.835 FINE [http-nio-1111-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=388 ms
+02-Dec-2024 23:53:00.360 FINE [http-nio-1111-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A01EnAlquiler
+02-Dec-2024 23:53:01.297 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:53:01.307 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=11
+02-Dec-2024 23:53:01.318 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeAlquiler, e_personaResponsable.descripcion, e.habitacion.id, e_habitacion.descripcion, e.precioAcordado, e_tipoDeMoneda.descripcion, e.abierto, e.observaciones from A01EnAlquiler e left join e.personaResponsable e_personaResponsable left join e.habitacion e_habitacion left join e.tipoDeMoneda e_tipoDeMoneda where e.abierto = true con argumentos
+02-Dec-2024 23:53:01.326 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=9
+02-Dec-2024 23:53:01.393 FINE [http-nio-1111-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=327 ms
+02-Dec-2024 23:53:04.518 FINE [http-nio-1111-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 admin List.viewDetail 333ms
+02-Dec-2024 23:53:04.668 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:53:04.673 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:53:04.766 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from TipoDeInmueble e con argumentos
+02-Dec-2024 23:53:04.769 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+02-Dec-2024 23:53:04.797 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:53:04.801 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:53:04.872 FINE [http-nio-1111-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=688 ms
+02-Dec-2024 23:53:12.403 FINE [http-nio-1111-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.save 359ms
+02-Dec-2024 23:53:12.627 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:53:12.641 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=15
+02-Dec-2024 23:53:12.685 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from TipoDeInmueble e con argumentos
+02-Dec-2024 23:53:12.698 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=14
+02-Dec-2024 23:53:12.744 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:53:12.750 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:53:12.802 FINE [http-nio-1111-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=765 ms
+02-Dec-2024 23:53:14.671 FINE [http-nio-1111-exec-1] org.openxava.controller.ModuleManager.log 127.0.0.1 admin Mode.list 4ms
+02-Dec-2024 23:53:14.803 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:53:14.806 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+02-Dec-2024 23:53:14.819 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeAlquiler, e_personaResponsable.descripcion, e.habitacion.id, e_habitacion.descripcion, e.precioAcordado, e_tipoDeMoneda.descripcion, e.abierto, e.observaciones from A01EnAlquiler e left join e.personaResponsable e_personaResponsable left join e.habitacion e_habitacion left join e.tipoDeMoneda e_tipoDeMoneda where e.abierto = true con argumentos
+02-Dec-2024 23:53:14.822 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:53:14.886 FINE [http-nio-1111-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=224 ms
+02-Dec-2024 23:53:17.305 FINE [http-nio-1111-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 admin List.viewDetail 60ms
+02-Dec-2024 23:53:18.030 FINE [http-nio-1111-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=790 ms
+02-Dec-2024 23:53:23.366 FINE [http-nio-1111-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.save 66ms
+02-Dec-2024 23:53:23.570 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:53:23.585 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=15
+02-Dec-2024 23:53:23.626 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from TipoDeInmueble e con argumentos
+02-Dec-2024 23:53:23.657 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=32
+02-Dec-2024 23:53:23.833 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:53:23.860 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=28
+02-Dec-2024 23:53:23.929 FINE [http-nio-1111-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=636 ms
+02-Dec-2024 23:53:25.889 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin Mode.list 1ms
+02-Dec-2024 23:53:26.043 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:53:26.052 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=9
+02-Dec-2024 23:53:26.071 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeAlquiler, e_personaResponsable.descripcion, e.habitacion.id, e_habitacion.descripcion, e.precioAcordado, e_tipoDeMoneda.descripcion, e.abierto, e.observaciones from A01EnAlquiler e left join e.personaResponsable e_personaResponsable left join e.habitacion e_habitacion left join e.tipoDeMoneda e_tipoDeMoneda where e.abierto = true con argumentos
+02-Dec-2024 23:53:26.076 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:53:26.153 FINE [http-nio-1111-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=270 ms
+02-Dec-2024 23:53:31.381 FINE [http-nio-1111-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A02EnAlquilerCerrado
+02-Dec-2024 23:53:32.351 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:53:32.355 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:53:32.381 FINE [http-nio-1111-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=236 ms
+02-Dec-2024 23:53:35.874 FINE [http-nio-1111-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A01EnAlquiler
+02-Dec-2024 23:53:36.811 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:53:36.834 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=25
+02-Dec-2024 23:53:36.856 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeAlquiler, e_personaResponsable.descripcion, e.habitacion.id, e_habitacion.descripcion, e.precioAcordado, e_tipoDeMoneda.descripcion, e.abierto, e.observaciones from A01EnAlquiler e left join e.personaResponsable e_personaResponsable left join e.habitacion e_habitacion left join e.tipoDeMoneda e_tipoDeMoneda where e.abierto = true con argumentos
+02-Dec-2024 23:53:36.873 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=18
+02-Dec-2024 23:53:36.942 FINE [http-nio-1111-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=407 ms
+02-Dec-2024 23:53:40.475 FINE [http-nio-1111-exec-7] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A02EnAlquilerCerrado
+02-Dec-2024 23:53:41.332 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:53:41.334 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+02-Dec-2024 23:53:41.360 FINE [http-nio-1111-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=190 ms
+02-Dec-2024 23:53:42.060 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A03CobroPersonas
+02-Dec-2024 23:53:42.801 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:53:42.806 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+02-Dec-2024 23:53:42.815 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelCobro, e_personaResponsable.cedula, e_personaResponsable.descripcion, e.montoCobrado, e_formaDeCobro.descripcion from A03CobroPersonas e left join e.personaResponsable e_personaResponsable left join e.personaResponsable e_personaResponsable left join e.formaDeCobro e_formaDeCobro con argumentos
+02-Dec-2024 23:53:42.818 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+02-Dec-2024 23:53:42.836 FINE [http-nio-1111-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=122 ms
+02-Dec-2024 23:53:50.382 FINE [http-nio-1111-exec-1] org.openxava.controller.ModuleManager.log 127.0.0.1 admin List.viewDetail 142ms
+02-Dec-2024 23:53:50.434 WARNING [http-nio-1111-exec-1] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDelCobro
+02-Dec-2024 23:53:50.502 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:53:50.505 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+02-Dec-2024 23:53:50.524 WARNING [http-nio-1111-exec-1] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoCobrado
+02-Dec-2024 23:53:50.532 WARNING [http-nio-1111-exec-1] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id tipoDeMoneda
+02-Dec-2024 23:53:50.542 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:53:50.556 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=15
+02-Dec-2024 23:53:50.565 WARNING [http-nio-1111-exec-1] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id formaDeCobro
+02-Dec-2024 23:53:50.573 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:53:50.577 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:53:50.602 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:53:50.609 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=8
+02-Dec-2024 23:53:50.625 FINE [http-nio-1111-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=390 ms
+02-Dec-2024 23:54:00.775 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.save 133ms
+02-Dec-2024 23:54:00.840 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:54:00.843 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:54:00.871 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:54:00.875 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:54:00.908 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:54:00.913 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+02-Dec-2024 23:54:00.939 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:54:00.954 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=15
+02-Dec-2024 23:54:00.986 FINE [http-nio-1111-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=349 ms
+02-Dec-2024 23:54:02.902 FINE [http-nio-1111-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A04MontoExonerado
+02-Dec-2024 23:54:03.724 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:54:03.746 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=21
+02-Dec-2024 23:54:03.773 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:54:03.783 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=11
+02-Dec-2024 23:54:03.790 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeLaExoneracion, e_personaResponsable.descripcion, e.montoExonerado, e_tipoDeMoneda.descripcion, e.concepto.id, e_concepto.descripcion from A04MontoExonerado e left join e.personaResponsable e_personaResponsable left join e.tipoDeMoneda e_tipoDeMoneda left join e.concepto e_concepto con argumentos
+02-Dec-2024 23:54:03.810 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=19
+02-Dec-2024 23:54:03.855 FINE [http-nio-1111-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=312 ms
+02-Dec-2024 23:54:05.959 FINE [http-nio-1111-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 admin List.viewDetail 33ms
+02-Dec-2024 23:54:06.035 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDeLaExoneracion
+02-Dec-2024 23:54:06.102 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:54:06.104 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:54:06.128 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoExonerado
+02-Dec-2024 23:54:06.136 WARNING [http-nio-1111-exec-2] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id tipoDeMoneda
+02-Dec-2024 23:54:06.150 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:54:06.154 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:54:06.176 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:54:06.180 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+02-Dec-2024 23:54:06.198 FINE [http-nio-1111-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=274 ms
+02-Dec-2024 23:54:10.268 FINE [http-nio-1111-exec-7] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A06PagoProveedores
+02-Dec-2024 23:54:11.295 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:54:11.308 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=13
+02-Dec-2024 23:54:11.315 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:54:11.326 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=10
+02-Dec-2024 23:54:11.332 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelPago, e_proveedor.rif, e_proveedor.descripcion, e.montoPagado, e_formaDePago.descripcion, e_concepto.descripcion from A06PagoProveedores e left join e.proveedor e_proveedor left join e.proveedor e_proveedor left join e.formaDePago e_formaDePago left join e.concepto e_concepto con argumentos
+02-Dec-2024 23:54:11.346 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=15
+02-Dec-2024 23:54:11.384 FINE [http-nio-1111-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=443 ms
+02-Dec-2024 23:54:15.650 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin List.viewDetail 50ms
+02-Dec-2024 23:54:15.715 WARNING [http-nio-1111-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDelPago
+02-Dec-2024 23:54:15.756 WARNING [http-nio-1111-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id rif
+02-Dec-2024 23:54:15.786 WARNING [http-nio-1111-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoPagado
+02-Dec-2024 23:54:15.800 WARNING [http-nio-1111-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id tipoDeMoneda
+02-Dec-2024 23:54:15.819 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:54:15.823 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:54:15.833 WARNING [http-nio-1111-exec-3] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id formaDePago
+02-Dec-2024 23:54:15.846 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:54:15.850 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+02-Dec-2024 23:54:15.870 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:54:15.875 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+02-Dec-2024 23:54:15.891 FINE [http-nio-1111-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=296 ms
+02-Dec-2024 23:54:21.740 FINE [http-nio-1111-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.save 50ms
+02-Dec-2024 23:54:21.792 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:54:21.795 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:54:21.811 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:54:21.817 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:54:21.861 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:54:21.863 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+02-Dec-2024 23:54:21.887 FINE [http-nio-1111-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=207 ms
+02-Dec-2024 23:54:23.625 FINE [http-nio-1111-exec-7] org.openxava.controller.ModuleManager.log 127.0.0.1 admin Mode.list 2ms
+02-Dec-2024 23:54:23.734 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:54:23.739 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:54:23.752 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:54:23.760 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=9
+02-Dec-2024 23:54:23.769 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelPago, e_proveedor.rif, e_proveedor.descripcion, e.montoPagado, e_formaDePago.descripcion, e_concepto.descripcion from A06PagoProveedores e left join e.proveedor e_proveedor left join e.proveedor e_proveedor left join e.formaDePago e_formaDePago left join e.concepto e_concepto con argumentos
+02-Dec-2024 23:54:23.774 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:54:23.823 FINE [http-nio-1111-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=203 ms
+02-Dec-2024 23:54:25.467 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin List.viewDetail 24ms
+02-Dec-2024 23:54:25.637 FINE [http-nio-1111-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=195 ms
+02-Dec-2024 23:54:29.267 FINE [http-nio-1111-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.save 67ms
+02-Dec-2024 23:54:29.318 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:54:29.321 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+02-Dec-2024 23:54:29.343 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:54:29.349 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:54:29.387 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:54:29.397 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=10
+02-Dec-2024 23:54:29.421 FINE [http-nio-1111-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=225 ms
+02-Dec-2024 23:54:31.328 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin Mode.list 1ms
+02-Dec-2024 23:54:31.431 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:54:31.433 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+02-Dec-2024 23:54:31.445 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:54:31.448 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:54:31.451 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelPago, e_proveedor.rif, e_proveedor.descripcion, e.montoPagado, e_formaDePago.descripcion, e_concepto.descripcion from A06PagoProveedores e left join e.proveedor e_proveedor left join e.proveedor e_proveedor left join e.formaDePago e_formaDePago left join e.concepto e_concepto con argumentos
+02-Dec-2024 23:54:31.456 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:54:31.481 FINE [http-nio-1111-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=157 ms
+02-Dec-2024 23:54:33.731 FINE [http-nio-1111-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A08ReporteEstadoDeCuenta
+02-Dec-2024 23:54:34.489 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelCierre, e.cedula, e.nombre, e.telefono, e.cantidadDeDias, e.montoAdeudado, e.montoExonerado, e.montoCobrado, e.saldoPendente from A08ReporteEstadoDeCuenta e con argumentos
+02-Dec-2024 23:54:34.493 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:54:34.608 FINE [http-nio-1111-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=266 ms
+02-Dec-2024 23:54:39.123 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A09ReporteIngresosEgresos
+02-Dec-2024 23:54:39.954 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelCierre, e.montoCobradoDeClientes, e.montoExoneradoDeClientes, e.montoDeudorDelClientes, e.montoPagadoAProveedor, e.saldoIngreso, e.saldoEgreso, e.saldo from A09ReporteIngresosEgresos e con argumentos
+02-Dec-2024 23:54:39.956 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:54:40.033 FINE [http-nio-1111-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=239 ms
+02-Dec-2024 23:54:49.086 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:ConceptosDePagos
+02-Dec-2024 23:54:49.842 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:54:49.851 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=9
+02-Dec-2024 23:54:49.895 FINE [http-nio-1111-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=182 ms
+02-Dec-2024 23:54:52.419 FINE [http-nio-1111-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Inmueble
+02-Dec-2024 23:54:53.222 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from TipoDeInmueble e con argumentos
+02-Dec-2024 23:54:53.251 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=29
+02-Dec-2024 23:54:53.260 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion, e.tipoDeInmueble.id, e_tipoDeInmueble.descripcion from Inmueble e left join e.tipoDeInmueble e_tipoDeInmueble con argumentos
+02-Dec-2024 23:54:53.267 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=8
+02-Dec-2024 23:54:53.308 FINE [http-nio-1111-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=172 ms
+02-Dec-2024 23:54:54.029 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:ModalidadDePago
+02-Dec-2024 23:54:54.763 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:54:54.767 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:54:54.800 FINE [http-nio-1111-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=155 ms
+02-Dec-2024 23:54:56.247 FINE [http-nio-1111-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Moneda
+02-Dec-2024 23:54:57.064 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:54:57.076 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=13
+02-Dec-2024 23:54:57.106 FINE [http-nio-1111-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=98 ms
+02-Dec-2024 23:54:58.101 FINE [http-nio-1111-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Nacionalidad
+02-Dec-2024 23:54:58.893 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:54:58.895 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+02-Dec-2024 23:54:58.923 FINE [http-nio-1111-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=160 ms
+02-Dec-2024 23:54:59.965 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:ConceptosDePagos
+02-Dec-2024 23:55:00.688 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:55:00.695 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=10
+02-Dec-2024 23:55:00.742 FINE [http-nio-1111-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=124 ms
+02-Dec-2024 23:55:05.698 FINE [http-nio-1111-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:ModalidadDePago
+02-Dec-2024 23:55:06.451 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:55:06.462 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=12
+02-Dec-2024 23:55:06.493 FINE [http-nio-1111-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=171 ms
+02-Dec-2024 23:55:11.756 FINE [http-nio-1111-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.deleteRow 66ms
+02-Dec-2024 23:55:11.805 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:55:11.807 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+02-Dec-2024 23:55:11.821 FINE [http-nio-1111-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=134 ms
+02-Dec-2024 23:55:14.554 FINE [http-nio-1111-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.deleteRow 46ms
+02-Dec-2024 23:55:14.603 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ModalidadDePago e con argumentos
+02-Dec-2024 23:55:14.608 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+02-Dec-2024 23:55:14.650 FINE [http-nio-1111-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=145 ms
+02-Dec-2024 23:55:16.875 FINE [http-nio-1111-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Moneda
+02-Dec-2024 23:55:17.661 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:55:17.665 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=13
+02-Dec-2024 23:55:17.694 FINE [http-nio-1111-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=175 ms
+02-Dec-2024 23:55:20.161 FINE [http-nio-1111-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.deleteRow 8ms
+02-Dec-2024 23:55:20.176 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:55:20.178 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:55:20.189 FINE [http-nio-1111-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=37 ms
+02-Dec-2024 23:55:22.308 FINE [http-nio-1111-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Nacionalidad
+02-Dec-2024 23:55:23.202 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:55:23.204 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:55:23.222 FINE [http-nio-1111-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=197 ms
+02-Dec-2024 23:55:24.362 FINE [http-nio-1111-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Personas
+02-Dec-2024 23:55:25.105 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:55:25.111 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:55:25.130 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.nacionalidad.id, e_nacionalidad.descripcion, e.cedula, e.descripcion, e.telefono, e.direccion from Personas e left join e.nacionalidad e_nacionalidad con argumentos
+02-Dec-2024 23:55:25.137 FINE [http-nio-1111-exec-7] org.openxava.tab.impl.TableModelBean.getRow nextChunk=8
+02-Dec-2024 23:55:25.175 FINE [http-nio-1111-exec-7] org.openxava.web.dwr.DWRBase.request Tiempo petición=169 ms
+02-Dec-2024 23:55:26.901 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:Proveedores
+02-Dec-2024 23:55:27.718 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.rif, e.descripcion, e.telefonoProveedor, e.direccionProveedor from Proveedores e con argumentos
+02-Dec-2024 23:55:27.720 FINE [http-nio-1111-exec-3] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+02-Dec-2024 23:55:27.744 FINE [http-nio-1111-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=147 ms
+02-Dec-2024 23:55:30.601 FINE [http-nio-1111-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:TasaDeCambio
+02-Dec-2024 23:55:31.313 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id id
+02-Dec-2024 23:55:31.316 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDelDia
+02-Dec-2024 23:55:31.323 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoUsd
+02-Dec-2024 23:55:31.334 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoBolivares
+02-Dec-2024 23:55:31.396 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id fechaDelDia
+02-Dec-2024 23:55:31.400 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoUsd
+02-Dec-2024 23:55:31.412 WARNING [http-nio-1111-exec-10] org.openxava.util.Labels.getWithoutCache Imposible internacionalizar elemento con id montoBolivares
+02-Dec-2024 23:55:31.444 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.fechaDelDia, e.montoUsd, e.montoBolivares from TasaDeCambio e con argumentos
+02-Dec-2024 23:55:31.446 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=8
+02-Dec-2024 23:55:31.463 FINE [http-nio-1111-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=167 ms
+02-Dec-2024 23:55:36.091 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A01EnAlquiler
+02-Dec-2024 23:55:36.918 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:55:36.921 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:55:36.936 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeAlquiler, e_personaResponsable.descripcion, e.habitacion.id, e_habitacion.descripcion, e.precioAcordado, e_tipoDeMoneda.descripcion, e.abierto, e.observaciones from A01EnAlquiler e left join e.personaResponsable e_personaResponsable left join e.habitacion e_habitacion left join e.tipoDeMoneda e_tipoDeMoneda where e.abierto = true con argumentos
+02-Dec-2024 23:55:36.939 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+02-Dec-2024 23:55:37.023 FINE [http-nio-1111-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=262 ms
+02-Dec-2024 23:55:51.167 FINE [http-nio-1111-exec-10] org.openxava.controller.ModuleManager.log 127.0.0.1 admin List.viewDetail 37ms
+02-Dec-2024 23:55:51.327 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:55:51.331 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:55:51.388 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from TipoDeInmueble e con argumentos
+02-Dec-2024 23:55:51.395 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=7
+02-Dec-2024 23:55:51.412 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:55:51.415 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+02-Dec-2024 23:55:51.481 FINE [http-nio-1111-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=353 ms
+02-Dec-2024 23:55:55.814 FINE [http-nio-1111-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.save 39ms
+02-Dec-2024 23:55:55.907 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:55:55.908 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+02-Dec-2024 23:55:55.922 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from TipoDeInmueble e con argumentos
+02-Dec-2024 23:55:55.924 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+02-Dec-2024 23:55:55.949 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:55:55.954 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:55:56.006 FINE [http-nio-1111-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=240 ms
+02-Dec-2024 23:55:57.625 FINE [http-nio-1111-exec-1] org.openxava.controller.ModuleManager.log 127.0.0.1 admin Mode.list 1ms
+02-Dec-2024 23:55:57.733 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:55:57.738 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:55:57.753 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeAlquiler, e_personaResponsable.descripcion, e.habitacion.id, e_habitacion.descripcion, e.precioAcordado, e_tipoDeMoneda.descripcion, e.abierto, e.observaciones from A01EnAlquiler e left join e.personaResponsable e_personaResponsable left join e.habitacion e_habitacion left join e.tipoDeMoneda e_tipoDeMoneda where e.abierto = true con argumentos
+02-Dec-2024 23:55:57.757 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:55:57.810 FINE [http-nio-1111-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=191 ms
+02-Dec-2024 23:56:00.159 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin List.viewDetail 28ms
+02-Dec-2024 23:56:00.441 FINE [http-nio-1111-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=313 ms
+02-Dec-2024 23:56:04.647 FINE [http-nio-1111-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.save 53ms
+02-Dec-2024 23:56:04.741 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:56:04.744 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+02-Dec-2024 23:56:04.761 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from TipoDeInmueble e con argumentos
+02-Dec-2024 23:56:04.765 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:56:04.799 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:56:04.806 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=7
+02-Dec-2024 23:56:04.919 FINE [http-nio-1111-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=328 ms
+02-Dec-2024 23:56:07.146 FINE [http-nio-1111-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 admin Mode.list 2ms
+02-Dec-2024 23:56:07.268 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:56:07.271 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:56:07.284 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeAlquiler, e_personaResponsable.descripcion, e.habitacion.id, e_habitacion.descripcion, e.precioAcordado, e_tipoDeMoneda.descripcion, e.abierto, e.observaciones from A01EnAlquiler e left join e.personaResponsable e_personaResponsable left join e.habitacion e_habitacion left join e.tipoDeMoneda e_tipoDeMoneda where e.abierto = true con argumentos
+02-Dec-2024 23:56:07.288 FINE [http-nio-1111-exec-8] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+02-Dec-2024 23:56:07.321 FINE [http-nio-1111-exec-8] org.openxava.web.dwr.DWRBase.request Tiempo petición=180 ms
+02-Dec-2024 23:56:10.315 FINE [http-nio-1111-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A02EnAlquilerCerrado
+02-Dec-2024 23:56:11.159 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:56:11.200 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=41
+02-Dec-2024 23:56:11.251 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeAlquiler, e_personaResponsable.descripcion, e.habitacion.id, e_habitacion.descripcion, e.precioAcordado, e_tipoDeMoneda.descripcion, e.abierto, e.observaciones from A01EnAlquiler e left join e.personaResponsable e_personaResponsable left join e.habitacion e_habitacion left join e.tipoDeMoneda e_tipoDeMoneda where e.abierto = false con argumentos
+02-Dec-2024 23:56:11.276 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=37
+02-Dec-2024 23:56:11.342 FINE [http-nio-1111-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=358 ms
+02-Dec-2024 23:56:12.969 FINE [http-nio-1111-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 admin List.viewDetail 24ms
+02-Dec-2024 23:56:13.091 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:56:13.097 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=7
+02-Dec-2024 23:56:13.154 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from TipoDeInmueble e con argumentos
+02-Dec-2024 23:56:13.156 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:56:13.182 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:56:13.184 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:56:13.240 FINE [http-nio-1111-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=297 ms
+02-Dec-2024 23:56:16.481 FINE [http-nio-1111-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 admin Mode.list 3ms
+02-Dec-2024 23:56:16.722 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:56:16.728 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:56:16.742 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeAlquiler, e_personaResponsable.descripcion, e.habitacion.id, e_habitacion.descripcion, e.precioAcordado, e_tipoDeMoneda.descripcion, e.abierto, e.observaciones from A01EnAlquiler e left join e.personaResponsable e_personaResponsable left join e.habitacion e_habitacion left join e.tipoDeMoneda e_tipoDeMoneda where e.abierto = false con argumentos
+02-Dec-2024 23:56:16.746 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+02-Dec-2024 23:56:16.772 FINE [http-nio-1111-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=299 ms
+02-Dec-2024 23:56:26.782 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A09ReporteIngresosEgresos
+02-Dec-2024 23:56:27.733 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelCierre, e.montoCobradoDeClientes, e.montoExoneradoDeClientes, e.montoDeudorDelClientes, e.montoPagadoAProveedor, e.saldoIngreso, e.saldoEgreso, e.saldo from A09ReporteIngresosEgresos e con argumentos
+02-Dec-2024 23:56:27.739 FINE [http-nio-1111-exec-9] org.openxava.tab.impl.TableModelBean.getRow nextChunk=7
+02-Dec-2024 23:56:27.785 FINE [http-nio-1111-exec-9] org.openxava.web.dwr.DWRBase.request Tiempo petición=281 ms
+02-Dec-2024 23:56:31.062 FINE [http-nio-1111-exec-8] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A08ReporteEstadoDeCuenta
+02-Dec-2024 23:56:31.954 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelCierre, e.cedula, e.nombre, e.telefono, e.cantidadDeDias, e.montoAdeudado, e.montoExonerado, e.montoCobrado, e.saldoPendente from A08ReporteEstadoDeCuenta e con argumentos
+02-Dec-2024 23:56:31.957 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:56:31.995 FINE [http-nio-1111-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=218 ms
+02-Dec-2024 23:56:42.629 FINE [http-nio-1111-exec-9] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A04MontoExonerado
+02-Dec-2024 23:56:43.628 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:56:43.646 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=18
+02-Dec-2024 23:56:43.675 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:56:43.728 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=54
+02-Dec-2024 23:56:43.734 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeLaExoneracion, e_personaResponsable.descripcion, e.montoExonerado, e_tipoDeMoneda.descripcion, e.concepto.id, e_concepto.descripcion from A04MontoExonerado e left join e.personaResponsable e_personaResponsable left join e.tipoDeMoneda e_tipoDeMoneda left join e.concepto e_concepto con argumentos
+02-Dec-2024 23:56:43.761 FINE [http-nio-1111-exec-6] org.openxava.tab.impl.TableModelBean.getRow nextChunk=26
+02-Dec-2024 23:56:43.790 FINE [http-nio-1111-exec-6] org.openxava.web.dwr.DWRBase.request Tiempo petición=477 ms
+02-Dec-2024 23:56:45.619 FINE [http-nio-1111-exec-5] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.new 1ms
+02-Dec-2024 23:56:45.735 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:56:45.738 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:56:45.770 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:56:45.771 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+02-Dec-2024 23:56:45.786 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:56:45.788 FINE [http-nio-1111-exec-5] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:56:45.797 FINE [http-nio-1111-exec-5] org.openxava.web.dwr.DWRBase.request Tiempo petición=180 ms
+02-Dec-2024 23:56:47.536 FINE [http-nio-1111-exec-2] org.openxava.controller.ModuleManager.log 127.0.0.1 admin Reference.search 36ms
+02-Dec-2024 23:56:47.939 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:56:47.946 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=7
+02-Dec-2024 23:56:47.960 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.nacionalidad.id, e_nacionalidad.descripcion, e.cedula, e.descripcion, e.telefono, e.direccion from Personas e left join e.nacionalidad e_nacionalidad con argumentos
+02-Dec-2024 23:56:47.966 FINE [http-nio-1111-exec-2] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:56:48.019 FINE [http-nio-1111-exec-2] org.openxava.web.dwr.DWRBase.request Tiempo petición=529 ms
+02-Dec-2024 23:56:51.848 WARNING [http-nio-1111-exec-3] org.openxava.actions.BaseAction.setControllers class org.openxava.actions.ChooseReferenceAction implementa IChangeControllersAction, por tanto las llamadas a setControllers(), returnToPreviousControllers() y setDefaultControllers() se ignoran: IChangeControllersAction tiene preferencia
+02-Dec-2024 23:56:51.853 FINE [http-nio-1111-exec-3] org.openxava.controller.ModuleManager.log 127.0.0.1 admin ReferenceSearch.choose 88ms
+02-Dec-2024 23:56:52.049 FINE [http-nio-1111-exec-3] org.openxava.web.dwr.DWRBase.request Tiempo petición=290 ms
+02-Dec-2024 23:57:02.558 FINE [http-nio-1111-exec-4] org.openxava.controller.ModuleManager.log 127.0.0.1 admin CRUD.save 44ms
+02-Dec-2024 23:57:02.599 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Nacionalidad e con argumentos
+02-Dec-2024 23:57:02.600 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=2
+02-Dec-2024 23:57:02.616 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:57:02.619 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+02-Dec-2024 23:57:02.649 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.id, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:57:02.651 FINE [http-nio-1111-exec-4] org.openxava.tab.impl.TableModelBean.getRow nextChunk=3
+02-Dec-2024 23:57:02.682 FINE [http-nio-1111-exec-4] org.openxava.web.dwr.DWRBase.request Tiempo petición=178 ms
+02-Dec-2024 23:57:04.407 FINE [http-nio-1111-exec-1] org.openxava.controller.ModuleManager.log 127.0.0.1 admin Mode.list 2ms
+02-Dec-2024 23:57:04.523 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from Moneda e con argumentos
+02-Dec-2024 23:57:04.526 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=4
+02-Dec-2024 23:57:04.538 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.descripcion, e.descripcion from ConceptosDePagos e con argumentos
+02-Dec-2024 23:57:04.543 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=5
+02-Dec-2024 23:57:04.548 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDeLaExoneracion, e_personaResponsable.descripcion, e.montoExonerado, e_tipoDeMoneda.descripcion, e.concepto.id, e_concepto.descripcion from A04MontoExonerado e left join e.personaResponsable e_personaResponsable left join e.tipoDeMoneda e_tipoDeMoneda left join e.concepto e_concepto con argumentos
+02-Dec-2024 23:57:04.554 FINE [http-nio-1111-exec-1] org.openxava.tab.impl.TableModelBean.getRow nextChunk=6
+02-Dec-2024 23:57:04.597 FINE [http-nio-1111-exec-1] org.openxava.web.dwr.DWRBase.request Tiempo petición=198 ms
+02-Dec-2024 23:57:07.941 FINE [http-nio-1111-exec-6] org.openxava.controller.ModuleManager.log 127.0.0.1 admin MODULE:A08ReporteEstadoDeCuenta
+02-Dec-2024 23:57:08.727 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.JPATabProvider.nextBlock [JPATabProvider.nextBlock] Ejecutando SELECT e.id, e.fechaDelCierre, e.cedula, e.nombre, e.telefono, e.cantidadDeDias, e.montoAdeudado, e.montoExonerado, e.montoCobrado, e.saldoPendente from A08ReporteEstadoDeCuenta e con argumentos
+02-Dec-2024 23:57:08.742 FINE [http-nio-1111-exec-10] org.openxava.tab.impl.TableModelBean.getRow nextChunk=15
+02-Dec-2024 23:57:08.836 FINE [http-nio-1111-exec-10] org.openxava.web.dwr.DWRBase.request Tiempo petición=294 ms
